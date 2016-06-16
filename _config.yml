@@ -13,10 +13,11 @@ url: http://example.com
 theme:
   title: Amati per amare
   avatar: "/uploads/eroico.jpg"
+  favicon: "/uploads/eroico.jpg"
   gravatar: 
   description: La pagina ufficiale di Amati per amare
   header_text: "<p>Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)</p>"
-  header_text_feature_image: 
+  header_text_feature_image: "/uploads/eroico.jpg"
   footer_text: Ispirati dalla fede Cristiana, crediamo che la persona, quando si sente
     amata e voluta bene fiorisce! E nell'amore... lì è Dio. Il nostro scopo è portare
     l'Amore di Gesù in particolare fra le coppie di sposi e fra coppie in crisi.
@@ -51,7 +52,6 @@ theme:
   str_continue_reading: Continua a leggere
   google_fonts: Source+Sans+Pro:400,700,700italic,400italic
   post_navigation: false
-  favicon: "/uploads/eroico.jpg"
 paginate: 5
 paginate_path: blog/page:num
 markdown: kramdown
