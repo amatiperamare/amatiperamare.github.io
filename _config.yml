@@ -12,9 +12,10 @@ baseurl:
 url: http://amatiperamare.it
 theme:
   title: Amati per amare
-  avatar_image: "/uploads/logo-rosso.jpg"
+  avatar_image: "/uploads/logo.png"
   favicon_image: "/uploads/logo.png"
   header_text_feature_image: "/uploads/logo-orizzontale.jpg"
+  gravatar: 
   description: La pagina ufficiale di Amati per amare
   header_text: "<p>Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)</p>"
   footer_text: Ispirati dalla fede Cristiana, crediamo che la persona, quando si sente
