@@ -1,6 +1,7 @@
 ---
 title: Ecco il primo
 date: 2016-06-16 09:30:00 Z
+permalink: ecco il primo
 layout: post
 ---
 
