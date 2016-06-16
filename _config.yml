@@ -12,7 +12,7 @@ baseurl:
 url: http://amatiperamare.it
 theme:
   title: Amati per amare
-  avatar_image: "/uploads/logo.png"
+  logo_image: "/uploads/logo.png"
   favicon_image: "/uploads/logo-rosso.jpg"
   header_text_feature_image: "/uploads/logo-orizzontale.jpg"
   gravatar: 
