@@ -12,8 +12,8 @@ baseurl:
 url: http://amatiperamare.it
 theme:
   title: Amati per amare
-  avatar: "/uploads/eroico.jpg"
-  favicon: "/uploads/eroico.jpg"
+  avatar_image: 
+  favicon_image: "/uploads/eroico.jpg"
   gravatar: 
   description: La pagina ufficiale di Amati per amare
   header_text: "<p>Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)</p>"
