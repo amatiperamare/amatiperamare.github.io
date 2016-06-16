@@ -12,7 +12,7 @@ baseurl:
 url: http://example.com
 theme:
   title: Amati per amare
-  avatar: avatar.png
+  avatar: "/uploads/eroico.jpg"
   gravatar: 
   description: La pagina ufficiale di Amati per amare
   header_text: "<p>Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)</p>"
