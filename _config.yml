@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  matrimonio:
+    title: matrimonio
+    output: true
 baseurl: ''
 url: http://example.com
 theme:
