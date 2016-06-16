@@ -12,12 +12,12 @@ baseurl:
 url: http://amatiperamare.it
 theme:
   title: Amati per amare
-  avatar_image: 
-  favicon_image: 
+  avatar_image: "/uploads/logo.png"
+  favicon_image: "/uploads/logo-rosso.jpg"
+  header_text_feature_image: "/uploads/logo-orizzontale.jpg"
   gravatar: 
   description: La pagina ufficiale di Amati per amare
   header_text: "<p>Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)</p>"
-  header_text_feature_image: "/uploads/eroico.jpg"
   footer_text: Ispirati dalla fede Cristiana, crediamo che la persona, quando si sente
     amata e voluta bene fiorisce! E nell'amore... lì è Dio. Il nostro scopo è portare
     l'Amore di Gesù in particolare fra le coppie di sposi e fra coppie in crisi.
