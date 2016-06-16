@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 baseurl: 
-url: http://example.com
+url: http://amatiperamare.it
 theme:
   title: Amati per amare
   avatar: "/uploads/eroico.jpg"
