@@ -1,13 +1,13 @@
 ---
 title: Ecco il primo
-date: 2016-06-16 09:30:00 Z
+date: 2016-06-16 11:30:00 +02:00
 permalink: ecco-il-primo
 featured-img: 
 layout: post
 ---
 
 
-![eroico.jpg](/uploads/eroico.jpg)
+![logo-orizzontale.jpg](/uploads/logo-orizzontale.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent odio quam, pulvinar vitae nibh ac, scelerisque maximus nulla. Etiam felis leo, ullamcorper nec vehicula eu, accumsan sed dui. Donec gravida, nunc consequat cursus feugiat, ipsum nisi euismod libero, et rhoncus enim felis tempor elit. Integer gravida nisi non ipsum scelerisque hendrerit. Sed ipsum augue, porttitor vitae venenatis sit amet, aliquam sit amet justo. Aenean auctor at arcu at ornare. Sed vulputate ultrices nibh, at tempor magna semper ut.
 
