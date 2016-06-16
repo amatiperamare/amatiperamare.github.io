@@ -8,30 +8,24 @@ collections:
   uploads:
     title: Uploads
     output: true
-  matrimonio:
-    title: matrimonio
-    output: true
-baseurl: ''
+baseurl: 
 url: http://example.com
 theme:
-  title: Type Theme
+  title: Amati per amare
   avatar: avatar.png
   gravatar: 
-  description: A website with blog posts and pages
-  header_text: |
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-    <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+  description: La pagina ufficiale di Amati per amare
+  header_text: "<p>Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)</p>"
   header_text_feature_image: 
-  footer_text: |
-    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+  footer_text: Crafted with love by FR
   rss: false
-  email_address: 
+  email_address: info@amatiperamare.it
   behance: 
   bitbucket: 
   dribbble: 
-  facebook: 
+  facebook: https://www.facebook.com/AmatiperAmare/
   flickr: 
-  github: rohanchandra/type-theme
+  github: 
   google_plus: 
   instagram: 
   linkedin: 
@@ -41,18 +35,18 @@ theme:
   stack_exchange: 
   steam: 
   tumblr: 
-  twitter: twitter
+  twitter: 
   wordpress: 
   youtube: 
   google_analytics: 
   disqus_shortname: 
   katex: true
-  str_follow_on: Follow on
-  str_rss_follow: Follow RSS feed
+  str_follow_on: Seguici su
+  str_rss_follow: Sugui RSS feed
   str_email: Email
-  str_next: Next
-  str_prev: Prev
-  str_continue_reading: Continue reading
+  str_next: Prossimo
+  str_prev: Precedente
+  str_continue_reading: Continua a leggere
   google_fonts: Source+Sans+Pro:400,700,700italic,400italic
   post_navigation: false
 paginate: 5
@@ -61,6 +55,6 @@ markdown: kramdown
 highlighter: rouge
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 gems:
 - jekyll-paginate
