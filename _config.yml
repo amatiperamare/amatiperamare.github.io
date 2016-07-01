@@ -4,9 +4,7 @@ url: http://amatiperamare.it
 favicon_img: /images/favicon/logo.png
 landing_img: /images/logo/logo-orizzontale-compatto.jpg
 permalink: /:title
-markdown: redcarpet
-# redcarpet:
-#     extensions: [with_toc_data]
+markdown: kramdown
 future: true
 poole:
     word_separator: "-"
