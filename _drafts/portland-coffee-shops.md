@@ -1,5 +1,6 @@
 ---
-title: "Field Notes: Portland Coffee Shops"
+title: 'Field Notes: Portland Coffee Shops'
+date: 2016-07-01 21:01:32.830000000 Z
 summary: My personal notes on spots to read and study in Portland
 layout: post
 ---

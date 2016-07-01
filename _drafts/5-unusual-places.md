@@ -1,5 +1,6 @@
 ---
 title: The Raddest Places You've Never Heard Of
+date: 2016-07-01 21:01:32.583000000 Z
 summary: 5 interesting, unknown, and unusual places to go adventuring
 layout: post
 ---

@@ -1,8 +1,10 @@
 ---
 title: My Jekyll Drafts Workflow
+date: 2013-04-25 00:00:00 Z
 layout: post
 summary: My solution to writing draft Jekyll posts, using a single git branch.
 ---
+
 ***Edit:*** *[Jekyll 1.1](http://jekyllrb.com/docs/upgrading/) now has a drafts feature which is pretty cool. If you're looking for a nice way to handle drafts in Jekyll, you should probably just upgrade. This method is still valid though, and might be useful to you if you want to use GitHub Pages for hosting your jekyll site, but don't want to have your drafts publicly available until they're published.*
 
 There are quite a few solutions to storing draft posts for a Jekyll blog floating around out there. A quick survey of the top google results for "Jekyll Draft" shows people [setting post dates in the far future](http://tqcblog.com/2012/08/22/jekyll-drafts/), using [extra keys in the YAML front matter](http://blog.pixarea.com/2012/07/draft-posts-in-jekyll), and creating [seperate git branches](https://nolancaudill.com/2011/07/03/my-jekyll-setup/) for each draft.

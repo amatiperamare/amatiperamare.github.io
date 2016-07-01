@@ -1,8 +1,8 @@
 ---
 title: Advice
+date: 2014-11-11 00:00:00 Z
 summary: My thoughts on the college experience
 layout: post
-date: 2014-11-11
 ---
 
 - Learn Git

@@ -1,7 +1,10 @@
 ---
 title: Bare Bones Vertical Text Centering with JQuery
+date: 2013-04-05 00:00:00 Z
 layout: post
-summary: I had a problem with a responsive column layout where multiples lines of text needed to be vertically centered inside the columns no matter how tall they were. This JQuery snippet fixed it.
+summary: I had a problem with a responsive column layout where multiples lines of
+  text needed to be vertically centered inside the columns no matter how tall they
+  were. This JQuery snippet fixed it.
 ---
 
 *Note: Don't use this. Really, don't. This post is here for historical reasons, and to remind me to be nice to junior devs because I was one too once.*
