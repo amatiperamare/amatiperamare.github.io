@@ -1,0 +1,16 @@
+title: Amati per amare
+description: "Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)"
+url: http://amatiperamare.it
+favicon_img: /images/favicon/logo.png
+landing_img: /images/logo/logo-orizzontale-compatto.jpg
+permalink: /:title
+markdown: redcarpet
+# redcarpet:
+#     extensions: [with_toc_data]
+future: true
+poole:
+    word_separator: "-"
+include: [".well-known"]
+sass:
+    sass_dir: _sass
+    sourcemap: true
