@@ -1,6 +1,5 @@
 ---
 title: Amati per amare
-description: "Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)"
 timezone: UTC
 collections:
   posts:
@@ -9,10 +8,11 @@ collections:
   uploads:
     title: Uploads
     output: true
+description: Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)
 url: http://amatiperamare.it
-favicon_img: /images/favicon/logo.png
-landing_img: /images/logo/logo-orizzontale-compatto.jpg
-permalink: /:title
+favicon_img: "/images/favicon/logo.png"
+landing_img: "/images/logo/logo-orizzontale-compatto.jpg"
+permalink: "/:title"
 markdown: kramdown
 future: true
 poole:
