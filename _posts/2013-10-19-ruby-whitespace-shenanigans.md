@@ -1,5 +1,6 @@
 ---
 title: Ruby Whitespace Shenanigans, Hello World Edition
+date: 2013-10-19 00:00:00 Z
 layout: post
 summary: A (somewhat silly) post about using Unicode whitespace in Ruby.
 ---

@@ -1,7 +1,9 @@
 ---
 title: Winning PDX Startup Weekend
+date: 2013-06-01 00:00:00 Z
 layout: post
-summary: Success at a 54-hour hackathon, and how the experience translated (or didn't) to the real world.
+summary: Success at a 54-hour hackathon, and how the experience translated (or didn't)
+  to the real world.
 ---
 
 Last month, the LivFly team was crowned the overall winner of [Portland Startup Weekend Spring 2013](http://portland.startupweekend.org/), a hackathon-style event that challenges developers, designers, and business people to build and validate a startup over the course of a weekend. I was the main developer on our 6-man team, and we were able to put together an impressive demo in less than 24 hours time. The team's accomplishments landed a [first-place](http://portland.startupweekend.org/2013/05/01/congratulations-to-all-pdxsw-spring-2013-teams/) $10,000 prize package of consulting and legal help. 

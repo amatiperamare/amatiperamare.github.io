@@ -1,8 +1,10 @@
 ---
 title: Learn C, Then Learn Computer Science
+date: 2014-02-09 00:00:00 Z
 layout: post
 summary: Theoretical understanding is great, but fundamentals are just as important.
 ---
+
 I'm an undergraduate studying computer science. It's great to get to sink my teeth into interesting, high-level problems like machine learning algorithms and graph theory, but I feel like my formal CS education isn't touching on some of the fundamentals of how computers work and how to write good code.
 
 In his post "[Learning to Code vs. Learning Computer Science](http://shkspr.mobi/blog/2014/02/learning-to-code-vs-learning-computer-science/)", Terence Eden raises some excellent points about the importance of learning the algorithms and intellectual principles behind programming. However, while I agree that "no conversation about teaching coding in schools is complete without a theoretical understanding of the science behind the code", I also think that it's important to talk about students' understanding of the *mechanics* behind the code.

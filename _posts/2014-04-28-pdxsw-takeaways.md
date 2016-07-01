@@ -1,9 +1,8 @@
 ---
-title: "Portland Startup Weekend: Takeaways"
-summary: "How my team succeeded at Startup Weekend."
+title: 'Portland Startup Weekend: Takeaways'
+date: 2014-04-28 09:26:00 Z
+summary: How my team succeeded at Startup Weekend.
 layout: post
-date: 2014-04-28 09:26
-
 ---
 
 Portland Startup Weekend is an idea that sounds good at first, but when you really think about it is completely *insane*. Pitching, building, and presenting a business in 54 hours isn't just challenging, it's sheer lunacy. Fortunately, there seem to be quite a few talented entrepreneurs out there who are willing to sacrifice their weekend, their sleep, and their sanity to participate in the madhouse that is Startup Weekend.

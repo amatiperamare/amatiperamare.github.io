@@ -1,8 +1,8 @@
 ---
 title: How Many Designs Does It Take To Open A Garage Door?
+date: 2014-11-16 00:00:00 Z
 summary: A story about iteration
 layout: post
-date: 2014-11-16
 ---
 
 # Prelude

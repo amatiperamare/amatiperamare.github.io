@@ -1,5 +1,6 @@
 ---
 title: 5 Examples of Great Minimal Jekyll Blog Designs
+date: 2013-11-16 00:00:00 Z
 summary: Inspiration and ideas from a few of my favorite hacker blogs.
 layout: post
 ---

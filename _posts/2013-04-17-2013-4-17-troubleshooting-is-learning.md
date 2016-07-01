@@ -1,7 +1,9 @@
 ---
 title: Troubleshooting Is Learning
+date: 2013-04-17 00:00:00 Z
 layout: post
-summary: Some thoughts on why troubleshooting is important, and what that means for programming courses in higher education.
+summary: Some thoughts on why troubleshooting is important, and what that means for
+  programming courses in higher education.
 ---
 
 When I'm writing code, I usually learn the most when something goes wrong. It's great to read through articles and tutorials about a technology or platform, but a surefire way to learn the subtleties and be forced to dive into the concepts behind something is to troubleshoot it. I recently had the opportunity to troubleshoot a memory issue on a Wordpress site. I've been developing Wordpress plugins and themes for 2 years now, but I've never had to actually learn what the `autoload` column of the `wp_options` table does until last week. I'm sure that every developer has had a similar experience when it comes to gaining a deeper understanding of a system through troubleshooting.

@@ -1,9 +1,8 @@
 ---
 title: Atom Initial Impressions
+date: 2014-03-01 09:28:00 Z
 layout: post
 summary: Breaking in GitHub's new text editor.
-date: 2014-03-01 09:28
-
 ---
 
 So, Github has a fancy new text editor, [Atom](https://atom.io). I was lucky enough to get in on the beta, and I've been using it for all of my programming for the last two days. So far, I really like it. The UI is very similar to Sublime Text and uses many of the same key bindings, so it was pretty easy for me to get my bearings. With that said, there were definitely a few annoyances present in Atom in its out-of-the-box state, so I took those as an opportunity to see just how "modern, approachable, and hackable to the core" Atom really is.
