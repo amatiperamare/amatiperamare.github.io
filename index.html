@@ -3,20 +3,43 @@ layout: landing
 ---
 
 <div class="hero">
-  <!-- {% include nav.html %} -->
   <div class="hero-wrapper">
     <div class="content">
       <img style="max-width:100%" src="{{ site.landing_img }}">
       <!-- <h1>{{ site.title }}</h1> -->
       <!-- <p>{{ site.description }}</p> -->
       <!-- <h2>Navigation</h2> -->
+      <!-- {% include nav.html %} -->
     </div>
   </div>
-  <!-- <a class="arrow-down" href="#writing"></a> -->
+  {% if site.landing_page.blog or site.landing_page.events %}
+    <a class="arrow-down" href="#writing"></a>
+  {% endif %}
 </div>
-<!-- <main>
-  <div class="content" id="writing">
-    <h1>Writing</h1>
-    {% include post-index.html %}
-  </div>
-</main> -->
+
+{% if site.landing_page.events %}
+  <main>
+    <div class="content" id="writing">
+      <h1>{{site.landing_page.events_title}}</h1>
+      <section class="post-index">
+        {% for article in site.events limit:2 %}
+          {% include index-article.html %}
+        {% endfor %}
+      </section>
+      <p><a href="/eventi">Vedi tutti gli eventi</a></p>
+    </div>
+  </main>
+{% endif %}
+
+{% if site.landing_page.blog %}
+  <main>
+    <div class="content" id="writing">
+      <h1>{{site.landing_page.blog_title}}</h1>
+      <section class="post-index">
+        {% for article in site.posts %}
+          {% include index-article.html %}
+        {% endfor %}
+      </section>      
+    </div>
+  </main>
+{% endif %}
