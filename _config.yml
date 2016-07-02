@@ -1,14 +1,6 @@
 ---
 title: Amati per amare
 timezone: UTC
-
-landing_page:
-  blog: true
-  blog_title: Blog
-  events: true
-  events_title: Eventi
-
-footer_text: "Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)"
 collections:
   events:
     title: Eventi
@@ -19,6 +11,12 @@ collections:
   uploads:
     title: Uploads
     output: true
+landing_page:
+  blog: true
+  blog_title: Blog
+  events: true
+  events_title: Eventi
+footer_text: Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)
 description: Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)
 url: http://amatiperamare.it
 favicon_img: "/images/favicon/logo.png"
