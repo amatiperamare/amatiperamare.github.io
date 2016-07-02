@@ -1,0 +1,8 @@
+<section class="post-index">
+  {% for event in site.events %}
+  <article>
+    <h2><a href="{{post.url}}">{{ event.title }}</a></h2>
+    <p>{{ event.summary }}</p>
+  </article>
+  {% endfor %}
+</section>
