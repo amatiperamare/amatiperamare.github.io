@@ -1,9 +1,8 @@
 ---
-title: About
-permalink: "/about/index.html"
+title: Chi siamo
+permalink: "/chi-siamo"
+published: false
 layout: page
-summary: My name is Quinn Rohlf, and I build neat things as a web developer and student
-  in Portland, Oregon.
 ---
 
 # Hello!
