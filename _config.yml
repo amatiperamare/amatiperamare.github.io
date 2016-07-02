@@ -5,13 +5,18 @@ collections:
   events:
     title: Eventi
     output: true
-    permalink: :title
+    permalink: title
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: post
 landing_page:
   blog: true
   blog_title: Blog
@@ -32,14 +37,3 @@ include:
 sass:
   sass_dir: _sass
   sourcemap: true
-
-defaults:
-  # - scope:
-  #     path: ""
-  #     type: events
-  #   values:
-  #     layout: post
-  - scope:
-      path: ""
-    values:
-      layout: post
