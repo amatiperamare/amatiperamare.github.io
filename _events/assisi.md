@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Amati per amare ad Assisi!
+layout: post
 collection: events
 ---
 
