@@ -1,5 +1,6 @@
 ---
 title: Amati per amare ad Assisi!
+permalink: "/:title"
 collection: events
 layout: post
 ---
