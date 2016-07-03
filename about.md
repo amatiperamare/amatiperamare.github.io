@@ -1,7 +1,6 @@
 ---
 title: Chi siamo
 permalink: "/chi-siamo"
-published: false
 layout: page
 ---
 
