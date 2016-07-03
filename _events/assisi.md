@@ -1,10 +1,13 @@
 ---
 title: Amati per amare ad Assisi!
-layout: post
+permalink: "/:title"
 collection: events
+layout: post
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla condimentum imperdiet dui non rutrum. In suscipit quis nulla sed tempor. 
+
+![porziuncola](/uploads/porziuncola.jpg)
 
 *Quisque posuere urna nec ex viverra, eu congue erat gravida. Vestibulum pulvinar eu dolor malesuada blandit. Nunc euismod tortor quam, interdum gravida nulla volutpat et.*
 
