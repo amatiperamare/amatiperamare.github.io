@@ -19,7 +19,8 @@
     font-weight: 300;
     // font-style: italic;
     font-size: 1.5rem;
-    color: $light-blue-200;
+    @extend .colors-intro;
+    // color: $light-blue-200;
   }
 
   h1 {
