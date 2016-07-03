@@ -6,7 +6,7 @@ layout: post
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla condimentum imperdiet dui non rutrum. In suscipit quis nulla sed tempor. 
 
-![13502149_1731983300416747_5777977304955115158_n.jpg](/uploads/13502149_1731983300416747_5777977304955115158_n.jpg)
+![porziuncola](/uploads/porziuncola.jpg)
 
 *Quisque posuere urna nec ex viverra, eu congue erat gravida. Vestibulum pulvinar eu dolor malesuada blandit. Nunc euismod tortor quam, interdum gravida nulla volutpat et.*
 
