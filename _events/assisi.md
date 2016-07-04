@@ -2,6 +2,7 @@
 title: Amati per amare ad Assisi!
 permalink: "/:title"
 collection: events
+summary: Tre giorni con un gruppo fantastico
 layout: post
 ---
 
