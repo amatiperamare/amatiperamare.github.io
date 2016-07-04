@@ -2,6 +2,7 @@
 title: Secondo post
 date: 2016-07-04 08:15:00 Z
 author: La pimpa
+summary: Ecco una breve descrizione di questo fantastico post
 ---
 
 Ciao ciao
