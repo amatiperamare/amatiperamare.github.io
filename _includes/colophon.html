@@ -1,6 +1,25 @@
+<style>
+.div-outer-img-center{
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+}
+.div-outer-img-center img{
+  padding-top: 2rem;
+  max-width: 80px;
+}
+</style>
+
 <footer class="colophon">
   <div class="content">
     <hr>
-	 <p>{{ site.footer_text }}</p>
+
+    <div class="div-outer-img-center">
+      <a href="/">
+      <img src="{{ site.bottom_img }}" />
+      </a>
+    </div>
+
+	  <h2>{{ site.footer_text }}</h2>
   </div>
 </footer>

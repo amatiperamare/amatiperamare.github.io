@@ -1,35 +1,27 @@
-.navbar {
-  @extend .colors-blue-dark;
-  .content {
-    font-size: 0.9rem;
-
-    .brand-link {
-      display: inline-block;
-      float: left;
-      font-weight: bold;
-      color: $brand-qrohlf;
-    }
-
-    nav {
-      float: right;
-      li {
-        margin: 0 1rem;
-        &:last-child {
-          margin-right: 0;
-        }
-      }
-      a {
-        color: $gray-600;
-      }
-      a:hover {
-        color: $light-blue-500;
-      }
-    }
-
-    @extend .clearfix;
+.fixed-nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 4rem;
+  background-color: $brand-amatiperamare;
+  color: $white;
+  a, a:visited {
+    color: $white;
   }
-
-  @media screen and (max-width: 480px) {
-    font-size: 0.8rem;
+  a:hover {
+    color: $gray-600;
+  }
+  ul{
+    margin-right: 3rem;
+    float: right;
+    line-height: 4rem;
+    li {
+      padding-right: 0.4rem;
+    }
   }
 }
+
+
+

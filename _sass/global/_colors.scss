@@ -40,7 +40,7 @@ $brand-amatiperamare: #CA3147;
 .colors-blue-dark {
   // background: $light-blue-600;
   background: $brand-amatiperamare;
-  color: $light-blue-200;
+  color: $gray-200; //$light-blue-200;
   a, a:visited {
     color: $gray-200;
   }
@@ -62,7 +62,7 @@ $brand-amatiperamare: #CA3147;
   }
 
   a:hover {
-    color: $light-blue-700;
+    color: $gray-400; //$light-blue-700;
   }
 }
 
