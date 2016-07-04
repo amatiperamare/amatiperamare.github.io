@@ -8,6 +8,20 @@
 
 .colophon {
   .content {
+    p {
     color: $gray-500;
+  font-family: 'Dosis', sans-serif;
+      font-size: 2rem;
+      line-height: 2.4rem;
+    }
+//     p:before {
+//   font-family: 'Dosis', sans-serif;
+//       color: #ccc;
+//       content: open-quote;
+//       font-size: 4em;
+//       line-height: 0.1em;
+//       margin-right: 0.25em;
+//       vertical-align: -0.4em;
+// }
   }
 }

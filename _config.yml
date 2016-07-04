@@ -37,3 +37,4 @@ include:
 sass:
   sass_dir: _sass
   sourcemap: true
+about: /chi-siamo
