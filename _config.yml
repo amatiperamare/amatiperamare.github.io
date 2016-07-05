@@ -1,6 +1,7 @@
 ---
 title: Amati per amare
 timezone: UTC
+favicon_image: "/images/logo/logo-web.png"
 collections:
   events:
     title: Eventi
