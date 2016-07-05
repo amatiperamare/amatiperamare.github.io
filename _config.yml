@@ -1,7 +1,6 @@
 ---
 title: Amati per amare
 timezone: UTC
-favicon_image: "/images/logo/logo-web.png"
 collections:
   events:
     title: Eventi
@@ -18,6 +17,7 @@ defaults:
     path: ''
   values:
     layout: post
+favicon_image: "/images/logo/logo-web.png"
 description: Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)
 url: http://amatiperamare.it
 permalink: "/:title"
