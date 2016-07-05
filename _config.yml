@@ -17,8 +17,11 @@ defaults:
     path: ''
   values:
     layout: post
-favicon_image: "/images/logo/logo-web.png"
-description: Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)
+description: 'Corsi per coppie di sposi e coppie in crisi. La psicologia al servizio
+  della Paola di Dio, per proporre percorsi esperienziali per crescere umanamente
+  e spiritualmente nella fede e nell''amore di coppia. Obbiettivi degli incontri:
+  consolidare le risorse nelle coppia, affrontare le crisi, costruire un''intimità
+  autentica, positiva e profonda.'
 url: http://amatiperamare.it
 permalink: "/:title"
 markdown: kramdown
