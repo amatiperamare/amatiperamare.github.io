@@ -8,21 +8,24 @@ landing: true
 
 
     <div class="content">
-      <img style="max-width:100%" src="{{ site.landing_image }}">
+      <img style="max-width:100%" src="{{ site.landing.image }}">
       <!-- <h1>{{ site.title }}</h1> -->
       <!-- <p>{{ site.description }}</p> -->
       <!-- <h2>Navigation</h2> -->
     </div>
   </div>
-  {% if site.landing_page.blog or site.landing_page.events %}
-    <a class="arrow-down" href="#writing"></a>
-  {% endif %}
+  <a class="arrow-down" href="#page_stuff"></a>
 </div>
 
-{% if site.landing_page.events %}
+<style type="text/css">
+  .anchor-offset {padding-top: 5rem;}
+</style>
+
   <main>
-    <div class="content" id="writing">
-      <h1><i class="fa fa-calendar-o" aria-hidden="true"></i> &nbsp; {{site.landing_page.events_title}}</h1>
+  <div class="" id="page_stuff"></div>
+
+    <div class="content anchor-offset" id="eventi">
+      <h1>{{site.landing.events_title}}</h1>
       <section class="post-index">
         {% for article in site.events limit:2 %}
           {% include index-article.html %}
@@ -32,13 +35,10 @@ landing: true
       <hr>
     </div>
   </main>
-{% endif %}
 
-{% if site.landing_page.blog %}
   <main>
-    <div class="content" id="writing">
-      <h1><i class="fa fa-pencil" aria-hidden="true"></i>
- &nbsp; {{site.landing_page.blog_title}}</h1>
+    <div class="content" id="blog">
+      <h1>{{site.landing.blog_title}}</h1>
       <section class="post-index">
         {% for article in site.posts %}
           {% include index-article.html %}
@@ -47,4 +47,3 @@ landing: true
       <h4><a href="/blog">Vedi tutti i post</a></h4>
     </div>
   </main>
-{% endif %}

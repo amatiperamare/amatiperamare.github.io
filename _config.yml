@@ -42,16 +42,18 @@ navigation:
     url: https://www.facebook.com/AmatiperAmare/
     show: true
 landing:
+  events_title: <i class="fa fa-calendar-o"></i> &nbsp; Eventi
+  blog_title: <i class="fa fa-pencil"></i> &nbsp; Blog
   image: "/images/logo/logo-orizzontale-compatto-web.jpg"
 footer:
   image: "/images/logo/logo-web.png"
   text: "Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)"
 
-landing_page:
-  blog: true
-  blog_title: Blog
-  events: true
-  events_title: Eventi
+# landing_page:
+#   blog: true
+#   blog_title: Blog
+#   events: true
+#   events_title: Eventi
 
-footer_image: 
-footer_text: Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)
+# footer_image: 
+# footer_text: Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)
