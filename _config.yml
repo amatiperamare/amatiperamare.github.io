@@ -25,7 +25,6 @@ future: true
 sass:
   sass_dir: _sass
   sourcemap: true
-
 navigation:
   pages:
   - title: Blog
@@ -48,12 +47,3 @@ landing:
 footer:
   image: "/images/logo/logo-web.png"
   text: "Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)"
-
-# landing_page:
-#   blog: true
-#   blog_title: Blog
-#   events: true
-#   events_title: Eventi
-
-# footer_image: 
-# footer_text: Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)
