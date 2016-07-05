@@ -1,8 +1,18 @@
 
 <nav class="fixed-nav-bar">
   <ul class="inline-nav">
-  {% for nav in site.navigation %}
-    <li><a href="{{ nav.url }}">{{ nav.title }}</a></li>
+  
+  {% for link in site.navigation.pages %}
+    {% if page.landing %}
+      <li><a href="#{{ link.url }}">{{ link.title }}</a></li>
+    {% else %}
+      <li><a href="/{{ link.url }}">{{ link.title }}</a></li>
+    {% endif %}
   {% endfor %}
+  
+  {% for link in site.navigation.external %}
+      <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+
   </ul>
 </nav>

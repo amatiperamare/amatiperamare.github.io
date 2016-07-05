@@ -40,12 +40,17 @@ sass:
   sourcemap: true
 facebook: https://www.facebook.com/AmatiperAmare/
 navigation:
-  blog:
-    title: Blog
-    url: "/blog"
+  pages:
+  - title: Blog
+    url: "blog"
     show: true
-  email:
-    title: 
-    mailto: info@amatiperamare.it
+  - title: Eventi
+    url: "eventi"
     show: true
-email: info@amatiperamare.it
+  external:
+  - title: Scrivici
+    url: mailto:info@amatiperamare.it
+    show: true
+  - title: Seguici su <i class="fa fa-facebook-square fa-lg"></i>
+    url: https://www.facebook.com/AmatiperAmare/
+    show: true
