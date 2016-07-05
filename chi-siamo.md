@@ -4,8 +4,6 @@ permalink: chi-siamo
 layout: page
 ---
 
-# Hello!
-I'm Quinn. I like to build interesting things and solve hard problems. I'll be joining New Relic as a software engineer this coming June. For now, I go to school, work on a couple of  [interesting side projects](/projects), and write on this blog. I have a background in full-stack web development and spend a lot of time playing with design ideas and new ways to present content. I believe that simple and thoughtful design can make the world a better place.
+# Lorem ipsum dolor sit amet, 
 
-# Get In Touch
-You can follow me at [@qrohlf](https://twitter.com/qrohlf) on twitter, or send an email to [qr@qrohlf.com](mailto:qr@qrohlf.com).
+consectetur adipiscing elit. Nulla consequat quis nisl a placerat. Morbi vel sapien et nulla hendrerit luctus. Aliquam erat volutpat. In euismod ipsum augue. Cras sed arcu neque. Sed maximus, ipsum malesuada venenatis laoreet, dui neque pellentesque elit, id ultricies felis lorem quis mi. Ut id auctor risus. Vestibulum eu sem posuere, egestas dolor non, porta ligula.
