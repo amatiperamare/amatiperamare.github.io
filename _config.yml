@@ -41,5 +41,11 @@ sass:
 about: "/chi-siamo"
 facebook: https://www.facebook.com/AmatiperAmare/
 navigation:
-- url: "/eventi"
-  title: Eventi
+- title: Blog
+  url: "/blog"
+- title: Eventi
+  url: "/eventi"
+- title: Chi siamo
+  url: "/chi-siamo"
+- title: Seguici su <i class="fa fa-facebook-square" aria-hidden="true"></i>
+  url: https://www.facebook.com/AmatiperAmare/
