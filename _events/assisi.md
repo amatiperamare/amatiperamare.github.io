@@ -1,5 +1,5 @@
 ---
-title: Amati per amare ad Assisi!
+title: Amati per Amare ad Assisi!
 permalink: "/:title"
 collection: events
 summary: Tre giorni con un gruppo fantastico
