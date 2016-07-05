@@ -38,7 +38,6 @@ include:
 sass:
   sass_dir: _sass
   sourcemap: true
-about: "/chi-siamo"
 facebook: https://www.facebook.com/AmatiperAmare/
 navigation:
 - title: Blog
@@ -47,5 +46,6 @@ navigation:
   url: "/eventi"
 - title: Chi siamo
   url: "/chi-siamo"
-- title: 'Seguici su '
+- title: Seguici su <i class="fa fa-facebook-square" aria-hidden="true"></i>
   url: https://www.facebook.com/AmatiperAmare/
+email: info@amatiperamare.it
