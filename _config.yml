@@ -19,14 +19,9 @@ defaults:
     layout: post
 description: Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)
 url: http://amatiperamare.it
-favicon: "/images/logo/logo-web.png"
 permalink: "/:title"
 markdown: kramdown
 future: true
-# poole:
-#   word_separator: "-"
-# include:
-# - ".well-known"
 sass:
   sass_dir: _sass
   sourcemap: true
@@ -57,8 +52,6 @@ landing_page:
   blog_title: Blog
   events: true
   events_title: Eventi
+
 footer_image: 
 footer_text: Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)
-favicon_image: "/images/logo/logo-web.png"
-landing_image: "/images/logo/logo-orizzontale-compatto-web.jpg"
-
