@@ -48,13 +48,4 @@ caz:
     title: 
     mailto: info@amatiperamare.it
     show: true
-navigation:
-- title: Blog
-  url: "/blog"
-- title: Eventi
-  url: "/eventi"
-- title: Chi siamo
-  url: "/chi-siamo"
-- title: Seguici su <i class="fa fa-facebook-square" aria-hidden="true"></i>
-  url: https://www.facebook.com/AmatiperAmare/
 email: info@amatiperamare.it
