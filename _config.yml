@@ -42,10 +42,10 @@ facebook: https://www.facebook.com/AmatiperAmare/
 navigation:
   pages:
   - title: Blog
-    url: "blog"
+    url: blog
     show: true
   - title: Eventi
-    url: "eventi"
+    url: eventi
     show: true
   external:
   - title: Scrivici
