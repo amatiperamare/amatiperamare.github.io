@@ -38,10 +38,10 @@ navigation:
   - title: Eventi
     url: eventi
     show: true
-  - title: Chi siamo
-    url: chi-siamo
-    show: true
   external:
+  - title: Chi siamo
+    show: true
+    url: chi-siamo
   - title: Scrivici
     url: mailto:info@amatiperamare.it
     show: false
