@@ -23,12 +23,13 @@ description: 'Corsi per coppie di sposi e coppie in crisi. La psicologia al serv
   consolidare le risorse nelle coppia, affrontare le crisi, costruire un''intimità
   autentica, positiva e profonda.'
 url: http://amatiperamare.it
-permalink: "/:title"
-markdown: kramdown
-future: true
-sass:
-  sass_dir: _sass
-  sourcemap: true
+landing:
+  image: "/images/logo/logo-orizzontale-compatto-web.jpg"
+  events_title: <i class="fa fa-calendar-o"></i> &nbsp; Eventi
+  blog_title: <i class="fa fa-pencil"></i> &nbsp; Blog
+footer:
+  image: "/images/logo/logo-web.png"
+  text: Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)
 navigation:
   pages:
   - title: Blog
@@ -44,10 +45,9 @@ navigation:
   - title: Seguici su <i class="fa fa-facebook-square fa-lg"></i>
     url: https://www.facebook.com/AmatiperAmare/
     show: true
-landing:
-  events_title: <i class="fa fa-calendar-o"></i> &nbsp; Eventi
-  blog_title: <i class="fa fa-pencil"></i> &nbsp; Blog
-  image: "/images/logo/logo-orizzontale-compatto-web.jpg"
-footer:
-  image: "/images/logo/logo-web.png"
-  text: Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)
+permalink: "/:title"
+markdown: kramdown
+future: true
+sass:
+  sass_dir: _sass
+  sourcemap: true
