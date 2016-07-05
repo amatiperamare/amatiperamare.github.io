@@ -2,6 +2,7 @@
 title: Blog
 date: 2016-07-03 11:55:00 Z
 permalink: blog
+published: false
 summary: Amati per amare!
 layout: page
 ---
