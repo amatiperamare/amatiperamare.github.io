@@ -27,7 +27,7 @@ description: Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20
 url: http://amatiperamare.it
 favicon_img: "/images/favicon/logo.png"
 landing_img: "/images/logo/logo-orizzontale-compatto-web.jpg"
-bottom_img: "/images/logo/logo.png"
+bottom_img: "/images/logo/logo-web.png"
 permalink: "/:title"
 markdown: kramdown
 future: true
