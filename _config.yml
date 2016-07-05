@@ -39,6 +39,18 @@ sass:
   sass_dir: _sass
   sourcemap: true
 facebook: https://www.facebook.com/AmatiperAmare/
+
+caz:
+  blog: 
+    title: Blog
+    url: /blog
+    show: true
+  email:
+    title:
+    mailto: info@amatiperamare.it
+    show: true
+
+
 navigation:
 - title: Blog
   url: "/blog"
