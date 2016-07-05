@@ -2,16 +2,22 @@
 <nav class="fixed-nav-bar">
   <ul class="inline-nav">
   
-  {% for link in site.navigation.pages %}
+  {% for link in site.navigation.landing %}
     {% if page.landing %}
+      {% if link.show %}
       <li><a href="#{{ link.url }}">{{ link.title }}</a></li>
+      {% endif %}
     {% else %}
+      {% if link.show %}
       <li><a href="/{{ link.url }}">{{ link.title }}</a></li>
+      {% endif %}
     {% endif %}
   {% endfor %}
   
-  {% for link in site.navigation.external %}
+  {% for link in site.navigation.other %}
+      {% if link.show %}
       <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+      {% endif %}
   {% endfor %}
 
   </ul>
