@@ -39,7 +39,7 @@ sass:
   sass_dir: _sass
   sourcemap: true
 facebook: https://www.facebook.com/AmatiperAmare/
-caz:
+navigation:
   blog:
     title: Blog
     url: "/blog"
