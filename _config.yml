@@ -29,10 +29,6 @@ landing_image: "/images/logo/logo-orizzontale-compatto-web.jpg"
 permalink: "/:title"
 markdown: kramdown
 future: true
-# poole:
-#   word_separator: "-"
-# include:
-# - ".well-known"
 sass:
   sass_dir: _sass
   sourcemap: true
@@ -53,4 +49,3 @@ navigation:
     show: true
 footer_image: "/images/logo/logo-web.png"
 footer_text: Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)
-
