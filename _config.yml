@@ -31,7 +31,7 @@ footer:
   image: "/images/logo/logo-web.png"
   text: Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)
 navigation:
-  pages:
+  landing:
   - title: Blog
     url: blog
     show: true
@@ -39,9 +39,12 @@ navigation:
     url: eventi
     show: true
   external:
+  - title: Chi siamo
+    show: true
+    url: chi-siamo
   - title: Scrivici
     url: mailto:info@amatiperamare.it
-    show: true
+    show: false
   - title: Seguici su <i class="fa fa-facebook-square fa-lg"></i>
     url: https://www.facebook.com/AmatiperAmare/
     show: true
