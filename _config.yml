@@ -38,9 +38,9 @@ navigation:
   - title: Eventi
     url: eventi
     show: true
-  - title: 
-    url: 
-    show: 
+  - title: Chi siamo
+    url: chi-siamo
+    show: true
   external:
   - title: Scrivici
     url: mailto:info@amatiperamare.it
