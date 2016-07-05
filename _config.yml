@@ -31,7 +31,7 @@ footer:
   image: "/images/logo/logo-web.png"
   text: Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)
 navigation:
-  pages:
+  landing:
   - title: Blog
     url: blog
     show: true
