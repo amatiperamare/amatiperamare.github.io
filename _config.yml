@@ -38,7 +38,7 @@ navigation:
   - title: Eventi
     url: eventi
     show: true
-  external:
+  other:
   - title: Chi siamo
     show: true
     url: chi-siamo
