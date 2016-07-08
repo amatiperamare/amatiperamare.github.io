@@ -1,8 +1,9 @@
 ---
 title: Secondo post
-date: 2016-07-04 08:15:00 Z
-author: La pimpa
+date: 2016-07-04 10:15:00 +02:00
 summary: Ecco una breve descrizione di questo fantastico post
+author: La pimpa
+layout: post
 ---
 
 Ciao ciao
