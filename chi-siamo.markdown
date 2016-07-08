@@ -13,5 +13,6 @@ layout: post
 
 ### Attraverso incontri e ritiri di preghiera, corsi, seminari di formazione umana e spirituale, Amati per Amare propone iniziative rivolte alla formazione ed educazione all'Amore Cristiano e alla vita familiare, con la responsabilità, la gioia, la realizzazione e la pienezza che essa deve comportare: una coppia felice fa una famiglia felice, e la possibilità di godere pienamente ADESSO, della gioia della vita che Dio dona ad ognuno di noi. SIAMO TUTTI CHIAMATI ALLA GIOIA. Amati per Amare sostiene e accompagna con speciale attenzione e cura le persone separate e divorziate; perché ciascuno, nella particolarità della propria storia, si possa sentire amato e appoggiato nel vivere la condizione a cui il Signore chiama.
 
-### La PERSONA TUTTA, quando si sente amata, stimata e voluta bene fiorisce, cambia, si converte, porta frutto! E nell'AMORE... lì c'è Dio. \
-**Amati per Amare nasce con un desiderio di "ITINERANZA", per cui le iniziative si possono spostare da un luogo all'altro, dove occorre, dove ci chiamano, dove c'è bisogno del nostro servizio.**
+### La PERSONA TUTTA, quando si sente amata, stimata e voluta bene fiorisce, cambia, si converte, porta frutto! E nell'AMORE... lì c'è Dio. 
+
+### **Amati per Amare nasce con un desiderio di "ITINERANZA", per cui le iniziative si possono spostare da un luogo all'altro, dove occorre, dove ci chiamano, dove c'è bisogno del nostro servizio.**
