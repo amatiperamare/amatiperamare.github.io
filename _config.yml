@@ -19,7 +19,7 @@ defaults:
     layout: page
     summary: 
 - scope:
-    path: post
+    type: posts
   values:
     layout: post
     author: Roberto e Claudia
