@@ -19,6 +19,10 @@ defaults:
 - scope:
     path: ''
   values:
+    layout: page
+- scope:
+    path: 'post'
+  values:
     layout: post
     author: Roberto e Claudia
     summary: 
