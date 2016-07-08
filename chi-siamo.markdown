@@ -2,7 +2,7 @@
 title: Chi siamo
 date: 2016-07-05 15:40:00 +02:00
 permalink: chi-siamo
-layout: page
+layout: post
 ---
 
 Amati per Amare è un associazione senza scopo di lucro ispirata dalla fede Cristiana Cattolica, intrisa profondamente di Spiritualità Francescana. Nasce dall'intuizione di una coppia di sposi Roberto e Claudia, insieme da 10 anni e tre bimbi. Lui mediatore familiare, lei psicoterapeuta, hanno messo a servizio della Pastorale Familiare dei Frati minori del Lazio la loro esperienza di fede, le loro competenze, la voglia di donare alle coppie fidanzate o sposate, alle famiglie, un'esperienza profonda e concreta, creativa e gioiosa dell'Amore di Dio. Insieme a loro altre coppie e famiglie collaborano in questo servizio CON e PER la Chiesa.
