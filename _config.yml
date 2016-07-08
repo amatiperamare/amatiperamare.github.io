@@ -2,9 +2,6 @@
 title: Amati per amare
 timezone: Europe/Rome
 collections:
-  drafts:
-    title: Drafts
-    output: true
   events:
     title: Eventi
     output: true
@@ -23,13 +20,6 @@ defaults:
     summary: 
 - scope:
     path: post
-  values:
-    layout: post
-    author: Roberto e Claudia
-    summary: 
-- scope:
-    path: ''
-    type: drafts
   values:
     layout: post
     author: Roberto e Claudia
