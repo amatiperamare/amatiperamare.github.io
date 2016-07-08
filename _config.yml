@@ -67,7 +67,7 @@ navigation:
     show: true
 permalink: "/:title"
 markdown: kramdown
-future: true
+future: false
 sass:
   sass_dir: _sass
   sourcemap: true
