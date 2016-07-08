@@ -2,7 +2,7 @@
 title: Blog
 date: 2016-07-08 23:42:00 +02:00
 permalink: blog
-summary: Amati per amare :D
+summary: Amati per amare!
 ---
 
 <section class="post-index">
