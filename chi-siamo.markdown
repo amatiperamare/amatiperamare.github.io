@@ -2,7 +2,6 @@
 title: Chi siamo
 date: 2016-07-05 15:40:00 +02:00
 permalink: chi-siamo
-published: false
 layout: post
 ---
 
