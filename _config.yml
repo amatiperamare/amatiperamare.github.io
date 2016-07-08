@@ -27,6 +27,13 @@ defaults:
     layout: post
     author: Roberto e Claudia
     summary: 
+- scope:
+    path: ''
+    type: drafts
+  values:
+    layout: post
+    author: Roberto e Claudia
+    summary:     
 description: 'Corsi per fidanzati, coppie di sposi e coppie in crisi. La psicologia
   al servizio della Paola di Dio, per proporre percorsi esperienziali per crescere
   umanamente e spiritualmente nella fede e nell''amore di coppia. Obbiettivi degli
