@@ -2,7 +2,7 @@
 title: Chi siamo
 date: 2016-07-05 15:40:00 +02:00
 permalink: chi-siamo
-summary: Per contrari info@amatiperamare.it
+summary: Per contattarci  info@amatiperamare.it
 layout: post
 ---
 
