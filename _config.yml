@@ -62,3 +62,5 @@ future: false
 sass:
   sass_dir: _sass
   sourcemap: true
+google_analytics: 
+facebook_app_id: 150639462009047
