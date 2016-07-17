@@ -13,7 +13,7 @@ Field name:
 
 Il Vangelo di questa domenica presenta due persone, Marta e Maria. L’azione la contemplazione a confronto, per spiegare qual’è la parte migliore che ci si può prendere nella relazione con Dio. Marta si occupa del servizio, di fare le cose e farle bene, vuole servire al meglio Gesù che le fa visita e si spende perché tutto sia al top. Fin qui non fa una piega! Non si può vivere una vita cristiana senza opere, senza il servizio, senza il fare.
 
-
+[amati per amare2 blog](/uploads/amati%20per%20amare2%20blog.JPG)
 
 *Il punto centrale è COME fare questo.* 
 
