@@ -13,7 +13,7 @@ Field name:
 
 Il Vangelo di questa domenica presenta due persone, Marta e Maria. L’azione la contemplazione a confronto, per spiegare qual’è la parte migliore che ci si può prendere nella relazione con Dio. Marta si occupa del servizio, di fare le cose e farle bene, vuole servire al meglio Gesù che le fa visita e si spende perché tutto sia al top. Fin qui non fa una piega! Non si può vivere una vita cristiana senza opere, senza il servizio, senza il fare.
 
-[amati per amare blog.JPG(/uploads/amati%20per%20amare%20blog.JPG)
+[amati per amare blog.JPG](/uploads/amati%20per%20amare%20blog.JPG)
 
 *Il punto centrale è COME fare questo.* 
 Marta si “affanna”, cioè si angoscia, si agita e spende molte energie per controllare che tutto sia fatto nella giusta maniera. L’affanno porta ansia e agitazione e questi stati d’animo di solito alimentano la tensione. Marta Inoltre è così concentrata a “dare”, che si dimentica di “ricaricarsi”. Alla fine dei giochi è stanca e soprattutto irritata!! Si. Perché quando fai cose belle per un tornaconto sbagliato finisce così. Qual’è il fine di Marta? Cosa si aspetta da Gesù o dagli altri commensali? Approvazione, lode, riconoscimento, reverenza… Quante volte fai le cose per la tua famiglia o per il tuo coniuge, perché in fondo, in fondo ti aspetti qualcosa in cambio. Ti aspetti di essere apprezzato e visto, e se ciò non si verifica ti irrita molto perché spesso sono tali riconoscimenti a farci sentire degni di valore.  
