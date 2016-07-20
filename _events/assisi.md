@@ -6,4 +6,4 @@ collection: events
 layout: post
 ---
 
-[https://www.youtube.com/watch?v=dpMB0CkguG8 ](http://https://www.youtube.com/watch?v=dpMB0CkguG8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dpMB0CkguG8" frameborder="0" allowfullscreen></iframe>
