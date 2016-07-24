@@ -1,0 +1,13 @@
+---
+title: 'La Preghiera: dalla relazione con Dio alla relazione coniugale'
+date: 2016-07-24 22:06:00 +02:00
+author: Claudia e Robero
+---
+
+Il Vangelo questa domenica ci ricorda che siamo tutti figli di uno stesso Padre. Tutti. Nessuno escluso. E la preghiera è il luogo privilegiato di questa relazione d’amore in cui Dio manifesta la sua Grazia.
+
+![DSCF5158.JPG](/uploads/DSCF5158.JPG)
+
+ Non si tratta solo di richieste nel bisogno, ma di invocare la presenza del Signore nella nostra vita, come un fidanzato che corteggia la sua amata e la cerca, la chiama, le parla, la desidera. Quando la preghiera parte da un cuore innamorato di Dio e del prossimo, il Signore si può manifestare con la sua Bellezza. Dio sa di cosa hai bisogno ancora prima che glielo chiedi, ma quando preghi per i tuoi fratelli, per le necessità del tuo prossimo, lì è amore, lì è Dio, lì Dio può rispondere e intervenire. La preghiera non serve a Dio. La preghiera serve a te per ricordarti chi sei, che sei figlio bisognoso di un padre amorevole che desidera occuparsi di te al meglio nella tua libertà. Per Dio custodire la tua libertà è molto importante. Così importante che non impone nulla, non costringe, non forza, non interviene se non glielo chiedi insistentemente.
+La Parola del Vangelo ci insegna che nella vita di coppia possiamo farci nudi e deboli davanti all’altro e nelle nostre relazioni interpersonali. Possiamo chiedere e mostrarci bisognosi, perché è li che l’altro può farci vedere quanto ci vuole bene e può fasciare le nostre ferite. Non temere di mostrare a tuo marito la tua vulnerabilità. Non avere paura di far vedere a tua moglie le tue ferite, perché è proprio quel dolore condiviso lo spazio dell’incontro amoroso e della costruzione dell’intimità vera. E tu marito, tu moglie abbi cura del dialogo del tuo partner, della sua preghiera, delle sue confidenze. Custodisci il momento in cui si mostra vulnerabile perché questo mette in circolo amore e questo amore sana la vita. Non usare la sua debolezza per fargli male, come spesso accade nel litigio.
+Come sposi possiamo pregare Dio riconoscendoci nelle nostre povertà coniugali e occupandoci della povertà degli altri. Ricordiamoci di non chiuderci in noi stessi pensando solo a noi e a quello che ci serve. La Parola ci stimola a pregare per il nostro partner proprio quando ci fa più male, perché è in quel momento che lui è più debole e fragile. Amiamoci a vicenda, occupiamoci l’uno dell’altro, rendiamoci la vita un paradiso facendo circolare affetto, tenerezza e accoglienza.
