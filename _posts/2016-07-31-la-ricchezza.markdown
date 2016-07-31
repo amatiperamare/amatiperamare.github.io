@@ -1,0 +1,21 @@
+---
+title: 'La ricchezza: doni da condividere'
+date: 2016-07-31 20:56:00 +02:00
+categories:
+- amore
+- doni
+- condividere
+- fratellanza
+author: 'Claudia '
+---
+
+Il Vangelo di oggi è molto eloquente! Ci invita ad usare BENE le nostre ricchezze e ciò che possediamo perché quando la nostra vita sarà al termine cosa rimarrà di noi? Quando “sorella morte” busserà alla nostra porta, noi cosa possederemo per risponderle in pace?
+
+![5465_180.jpg](/uploads/5465_180.jpg)
+
+Il Vangelo di questa domenica non biasima la ricchezza in quanto tale. Ben venga se hai un buon guadagno, se possiedi una casa o delle attività. Ben vengano le tue ricchezze. Ma la domanda è: COME LE USI? L’unica risposta possibile per una vita di pace e prosperità è solo CONDIVIDERE. Quando le tue ricchezze non ti possiedono, ma sei tu che possiedi loro, grato di esse che sono un dono, allora sei disponibile ad usarle per il BENE della tua famiglia, dei tuoi fratelli, di chi ti sta intorno, di chi ha bisogno. Sei disposto in qualsiasi momento a rinunciarci perché non sono quelle ricchezze che dicono chi sei e quanto vali, che ti danno un identità. Non prendi la vita dalle tue ricchezze, che a volte non sono solo i soldi e i beni materiali, ma tutte le certezze che hai. Il successo, la fama, la ricchezza, la popolarità, l’intelligenza, la parlantina, passano come un soffio. Il mondo ti innalza e ti abbassa come niente. Allora forse occorre dare il giusto posto a tutte le cose e le condizioni. Ti puoi godere un successo, ti puoi godere la popolarità, ti puoi godere i soldi, il potere, sapendo che tutto questo è il dono di un momento che DEVI METTERE A SERVIZIO DEL REGNO DI DIO.
+Tutto è vanità, dice Qoelet. Che significa vapore (D. Fabio Rosini). Tutto è vapore. Allora arricchisciti presso Dio, diventa ricco della tua relazione con LUI, della VOSTRA intimità. Fai il pieno del Suo Amore. Riempiti della sua Misericordia. Perché se ti arricchisci solo per il mondo, quando arriverà la tua ora qual’è l’IMPRONTA che lascerai? Cosa rimarrà di te?
+Nella vita di coppia questo discorso si può concretizzare con due spunti di riflessione:
+PRIMO. Usate i vostri soldi per prendervi cura della vostra vita di coppia e della vostra famiglia: prendetevi un tempo per stare insieme voi due, uscite a cena fuori e parlate di voi, fate un weekend romantico e curate la vostra intimità. Organizzate delle belle vacanze di famiglia per stare bene tutti insieme, parlate, ridete, scherzate, usate questo tempo per condividere pensieri, desideri, sentimenti, per godere del vostro essere famiglia. Questo stare bene VOI DUE, e stare bene TUTTA LA FAMIGLIA non è funzione del vostro ombelico, ma grati dei doni che Dio vi da, li restituite a chi vi sta intorno, donando la gioia e l’intimità che custodite e coltivate a chi vi sta vicino. Vi prendete cura di voi, per prendervi cura di chi vi sta intorno. Vi ricaricate per donare questa energia rinnovata ai vostri figli e alle persone che vi circondano.
+SECONDO. Usate le vostre “ricchezze” individuali per colmare le povertà del vostro sposo - sposa. La coppia è una squadra, si vince insieme e si perde insieme. Se sei più “ricco” in certi ambiti, se hai dei talenti e delle capacità maggiori in certe situazioni, non le usare per umiliare il tuo compagno o rinfacciare e giudicare, piuttosto mettile a servizio della vita di coppia per far fiorire l’amore!
+La ricchezza di Dio è la condivisione.  La condivisione porta equità, non solo su un piano economico, ma anche esistenziale ed emotivo. Condividi ciò che possiedi, soldi, beni, capacità, un sorriso, una carezza, il sugo con le polpette. Apri la tua casa agli amici. Ascolta la storia delle persone intorno a te. Domanda alle persone come stanno guardandole negli occhi, e mostrati all’altezza della risposta accogliendo nel tuo cuore le loro parole. Condividi i doni che Dio ti fa, di cui forse il tempo è la cosa più preziosa. Questa settimana condividi la ricchezza più preziosa che hai: IL TUO TEMPO e decidi di fare qualcosa di speciale per qualcuno che non sia tu.
