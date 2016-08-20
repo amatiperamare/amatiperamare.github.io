@@ -1,6 +1,10 @@
 ---
 title: La salvezza  di Dio passa per l'Amore
 date: 2016-08-20 14:24:00 +02:00
+categories:
+- amore
+- matrimonio
+- cambiamento
 author: 'Claudia '
 ---
 
