@@ -3,13 +3,10 @@ title: Il sogno di Dio
 date: 2016-09-19 17:39:00 +02:00
 ---
 
-CI SIAMO! Siamo lieti di comunicarvi la prima data di un percorso pensato per la coppia dal titolo:
 
 ![ritiro sacrofano.png](/uploads/ritiro%20sacrofano.png)
 
-\
-
-“IL SOGNO DI DIO: \
+CI SIAMO! Siamo lieti di comunicarvi la prima data di un percorso pensato per la coppia dal titolo:“IL SOGNO DI DIO: \
 dono d’amore tra uomo e donna”\
 2-3-4 dicembre\
 Famiglia d’origine: risorsa o limite
@@ -23,4 +20,4 @@ Luogo: gli eventi si terranno presso la FRATERNA DOMUS via Sacrofanese 25 Roma (
 Costi: Euro 150 a persona; i bambini dai 4 ai 15 anni: per la pensione completa al giorno, il costo di un pranzo extra 10 Euro. I bambini al disotto dei 4 anni è gratis
 
 Se avete la possibilità LASCIATE I VOSTRI FIGLI E PRENDETEVI UNO SPAZIO PRIVILEGIATO PER VOI COME COPPIA! \
- E’ PREVISTO UN SERVIZIO DI BABY SITTING con baby sitter preparate che non solo intratterranno i nostri figli, ma offriranno loro la possibilità di approfondire le stesse tematiche che di cui parliamo nel ritiro, in maniera chiaramente consona all’età dei bambini.
+E’ PREVISTO UN SERVIZIO DI BABY SITTING con baby sitter preparate che non solo intratterranno i nostri figli, ma offriranno loro la possibilità di approfondire le stesse tematiche che di cui parliamo nel ritiro, in maniera chiaramente consona all’età dei bambini.
