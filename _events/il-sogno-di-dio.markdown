@@ -26,4 +26,4 @@ Destinatari: coppie sposate, conviventi, coppie felici, coppie in crisi, coppie 
 Se avete la possibilità LASCIATE I VOSTRI FIGLI E PRENDETEVI UNO SPAZIO PRIVILEGIATO PER VOI COME COPPIA!
 E’ PREVISTO UN SERVIZIO DI BABY SITTING con baby sitter preparate che non solo intratterranno i nostri figli, ma offriranno loro la possibilità di approfondire le stesse tematiche che di cui parliamo nel ritiro, in maniera chiaramente consona all’età dei bambini.
 
-# **Modalità iscrizione** : versamento acconto 75€ a persona sull IBAN IT79B0760705138255912555915 **Intestato a Reis Roberto**.  **Causale Acconto corso Il sogno di Dio amati per amare **
+# **Modalità iscrizione** : versamento acconto 75€ a persona sull IBAN IT79B0760705138255912555915 **Intestato a Reis Roberto**.  **Causale: Acconto corso Il sogno di Dio amati per amare **
