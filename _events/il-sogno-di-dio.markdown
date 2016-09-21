@@ -6,7 +6,7 @@ position: 0
 
 ![ritiro sacrofano.png](/uploads/ritiro%20sacrofano.png)
 
-**CI SIAMO**! Siamo lieti di comunicarvi la prima data di un percorso pensato per la coppia dal titolo:“**IL SOGNO DI DIO:
+**CI SIAMO**! Siamo lieti di **comunicarvi** la prima data di un percorso pensato per la coppia dal titolo:“**IL SOGNO DI DIO:
 dono d’amore tra uomo e donna”**
 **2-3-4 dicembre**
 Famiglia d’origine: risorsa o limite
