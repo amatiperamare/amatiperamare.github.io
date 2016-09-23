@@ -22,7 +22,7 @@ Destinatari: coppie sposate, conviventi, coppie felici, coppie in crisi, coppie 
 
 **Luogo**: gli eventi si terranno presso la FRATERNA DOMUS via Sacrofanese 25 Roma (www.fraternadomus.it), facile da raggiungere sia per chi vive a Roma sia per chi viene da fuori Roma. Praticamente a 10 minuti dal raccordo uscita S.S. Flaminia.
 
-**Costi**: Euro 150 a persona; i bambini dai 4 ai 15 anni: per la pensione completa al giorno, il costo di un pranzo extra 10 Euro. I bambini al disotto dei 4 anni è gratis
+**Costi**: Euro 150 a persona; i bambini dai 4 ai 15 anni: per la pensione completa al giorno il costo è di 40 euro, il costo di un pranzo extra 10 Euro. I bambini al disotto dei 4 anni è gratis
 
 Se avete la possibilità LASCIATE I VOSTRI FIGLI E PRENDETEVI UNO SPAZIO PRIVILEGIATO PER VOI COME COPPIA!
 E’ PREVISTO UN SERVIZIO DI BABY SITTING con baby sitter preparate che non solo intratterranno i nostri figli, ma offriranno loro la possibilità di approfondire le stesse tematiche che di cui parliamo nel ritiro, in maniera chiaramente consona all’età dei bambini.
