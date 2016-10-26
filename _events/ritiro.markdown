@@ -2,6 +2,7 @@
 title: Ritiro per coppie 3-4 dicembre
 date: 2016-10-08 00:53:00 +02:00
 permalink: ritiro
+published: false
 summary: 'Il tema sarà:  gestire le relazioni con la famiglia d''origine. Consapevoli
   dei limiti e delle risorse che essa rappresenta. Occorre maturare infatti un sano
   e costruttivo processo di autonomia e svincolo soprattutto da modelli disfunzionali
