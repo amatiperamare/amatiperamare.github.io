@@ -20,8 +20,6 @@ Una relazione che funziona ed è autentica è composta da pochi pilastri:
 
 IDENTITA': consapevolezza di chi sono io, della mia storia, delle ferite che ci portiamo dalla nostra infanzia, ma anche le risorse che ci permettono di tirare fuori il meglio di noi.\
 REALIZZAZIONE DI SE: accorgersi dei propri desideri, delle proprie capacità, qualità e sentire di poter crescere ed evolvere come essere umano, in uno scambio reciproco col nostro partner della nostra ricchezza e della nostra bellezza.\
-DIALOGO PROFONDO: condividere in modo autentico pensieri e sentimenti con il proprio compagno/a con una comunicazione chiara, aperta e concreta, permette di costruire un'intimità che a volte neanche la relazione sessuale può farci sperimentare.\
+DIALOGO PROFONDO: condividere in modo autentico pensieri e sentimenti con il proprio compagno a con una comunicazione chiara, aperta e concreta, permette di costruire un'intimità che a volte neanche la relazione sessuale può farci sperimentare.\
 TENEREZZA: disposizione profonda, totale e pervasiva ad amarsi, ad amare ed essere amati, fatta di parole e gesti gratuiti.\
-L'amore, per come lo intendiamo NOI DI SOS COPPIA, non è solo un sentimento che oggi c'è  e domani va via, ma è una promessa profonda di amore, fedeltà e pazienza, di lotta continua e lavoro instancabile e complesso, che se viene coltivato con costanza e volontà fa germogliare relazioni che possono vivere una vita insieme.
-
-[http://www.soscoppia.it/blog-sos-coppia/37-la-tenerezza-è-più-di-un-gesto](http://www.soscoppia.it/blog-sos-coppia/37-la-tenerezza-è-più-di-un-gesto)
+L'amore, non è solo un sentimento che oggi c'è  e domani va via, ma è una promessa profonda di amore, fedeltà e pazienza, di lotta continua e lavoro instancabile e complesso, che se viene coltivato con costanza e volontà fa germogliare relazioni che possono vivere una vita insieme.
