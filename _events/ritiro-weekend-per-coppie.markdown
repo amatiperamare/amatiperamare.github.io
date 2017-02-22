@@ -27,7 +27,7 @@ Altre informazioni:
 
 * versamento acconto 40€ a persona sul IBAN **IT79B0760705138255912555915**
   Intestato a Reis Roberto. Oppure Ricaricando la postapay numero **5333171024687093** sempre intestato a Reis Roberto.
-  Causale: DONAZIONE VOLONTARIA
+  Causale:  **DONAZIONE VOLONTARIA**
 
 Sono aperte le iscrizioni fino a fine 10 aprile.
 
