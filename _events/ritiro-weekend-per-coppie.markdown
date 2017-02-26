@@ -1,5 +1,5 @@
 ---
-title: Ritiro weekend per coppie
+title: Ritiro per coppie
 date: 2017-02-22 11:27:00 +01:00
 categories:
 - ritiro
