@@ -1,6 +1,7 @@
 ---
 title: Incontro per coppie L'AQUILA
 date: 2017-02-17 20:51:00 +01:00
+published: false
 categories:
 - incontro
 - amore
