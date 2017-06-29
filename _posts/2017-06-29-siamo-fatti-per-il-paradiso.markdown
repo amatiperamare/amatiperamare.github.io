@@ -1,5 +1,5 @@
 ---
-title: SIAMO FATTI PER L’ETERNITA’
+title: SIAMO FATTI PER IL PARADISO
 date: 2017-06-29 23:48:00 +02:00
 categories:
 - eternità
