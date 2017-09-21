@@ -1,6 +1,13 @@
 ---
 title: "“IL SOGNO DI DIO PER GLI SPOSI: L’amore”"
 date: 2017-09-21 11:04:00 +02:00
+categories:
+- amore
+- ritiro
+- Dio
+- relazione di coppia
+- matrimonio
+- blog cristiani
 ---
 
 RITIRO PER FAMIGLIE
