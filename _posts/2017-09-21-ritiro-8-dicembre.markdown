@@ -52,7 +52,7 @@ I POSTI SONO LIMITATI!!
 N.B. L’8 dicembre non verrà celebrata la messa per cui, chi lo desidera, partecipi alla Celebrazione Eucaristica per conto proprio dove ritiene opportuno prima dell’inizio del ritiro. La domenica invece la messa verrà celebrata all’interno della casa.
 
 Per altre informazioni contattateci
-via mail [info@amatiperamre.it](http://info@amatiperamare.it) o ai numeri 3207830885
+via mail info@amatiperamre.it o ai numeri 3207830885
 3207830875
 
 VI ASPETTIAMO!!
