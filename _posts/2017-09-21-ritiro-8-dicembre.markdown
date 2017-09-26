@@ -40,7 +40,7 @@ PROGRAMMA In un clima di gioia, divertimento e fraternità vivremo momenti inten
 ·       Custodire la preghiera e la relazione personale con Dio
 
 COSTI per l’intero weekend in pensione completa: 110 € a persona per gli adulti, 55€ per i bambini dai 3 agli 8 anni, gratis bambini sotto i tre anni. E’ previsto un servizio baby sitter compreso nel prezzo, grazie anche alle donazioni di benefattori che credono in quest’opera di Dio per la famiglia.
-MODALITA’ DI ISCRIZIONE  Cliccate il seguente link [https://docs.google.com/forms/d/e/1FAIpQLSf9TYgO93ejjm-QxC70ssWRaS5wiuQUdjezUTgnNYLvbB-eyw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSf9TYgO93ejjm-QxC70ssWRaS5wiuQUdjezUTgnNYLvbB-eyw/viewform) completate le informazioni richieste quindi inviatele mediate il pulsante INVIO.
+MODALITA’ DI ISCRIZIONE  Cliccate il seguente link **[https://docs.google.com/forms/d/e/1FAIpQLSf9TYgO93ejjm-QxC70ssWRaS5wiuQUdjezUTgnNYLvbB-eyw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSf9TYgO93ejjm-QxC70ssWRaS5wiuQUdjezUTgnNYLvbB-eyw/viewform) **completate le informazioni richieste quindi inviatele mediate il pulsante INVIO.
 L'iscrizione sarà effettiva al versamento dell' acconto di 50€ a persona sull’IBAN IT73P0311103220000000000238
 Intestato ad ASSOCIAZIONE DI PROMOZIONE SOCIALE AMATI PER AMARE. Nella Causale scrivere: DONAZIONE VOLONTARIA.
 Il saldo verrà effettuato ad inizio corso o prima con bonifico se preferite.
