@@ -37,7 +37,7 @@ CASA FRANCESCA a Santa Maria degli Angeli (Assisi), via San Pio X n° 7.
 
 **COSTI** per l’intero weekend in pensione completa: 130 € a persona per gli adulti, 65 per i bambini dai 3 agli 8 anni, gratis bambini sotto i tre anni. E’ previsto un servizio baby sitter compreso nel prezzo, grazie anche alle donazioni di benefattori che credono in quest’opera di Dio per la famiglia.
 
-\*\*MODALITA’ DI ISCRIZIONE \*\* Cliccate il seguente [https://docs.google.com/forms/d/e/1FAIpQLSfSJAavfGl1IJrShDPYbKTPo4FbD0NQA-4N0cKNpt1DWXm9Fw/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSfSJAavfGl1IJrShDPYbKTPo4FbD0NQA-4N0cKNpt1DWXm9Fw/viewform?usp=sf_link) completate le informazioni richieste quindi inviatele mediate il pulsante INVIO.
+**MODALITA’ DI ISCRIZIONE**  Cliccate il seguente [https://docs.google.com/forms/d/e/1FAIpQLSfSJAavfGl1IJrShDPYbKTPo4FbD0NQA-4N0cKNpt1DWXm9Fw/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSfSJAavfGl1IJrShDPYbKTPo4FbD0NQA-4N0cKNpt1DWXm9Fw/viewform?usp=sf_link) completate le informazioni richieste quindi inviatele mediate il pulsante INVIO.
 
 L'iscrizione sarà effettiva al versamento dell' acconto di 50€ a persona sull’IBAN IT73P0311103220000000000238
 
