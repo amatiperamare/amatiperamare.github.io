@@ -12,7 +12,8 @@ Carissime Coppie vi proponiamo un weekend speciale per prendervi cura della vost
 **DOVE** Saremo ospiti della comunità delle Suore Francescane dell'Addolorata presso
 
 CASA FRANCESCA a Santa Maria degli Angeli (Assisi), via San Pio X n° 7.
-CHI PUO’ PARTECIPARE Il corso è aperto a COPPIE SPOSATE, CONVIVENTI
+
+**CHI PUO’ PARTECIPARE** Il corso è aperto a COPPIE SPOSATE, CONVIVENTI
 
 **CONDUTTORI** Il corso è condotto da Roberto e Claudia, la coppia di sposi che ha fondato l’associazione “Amati per Amare”. Psicoterapeuta lei e Dott. in psicologia dello sviluppo, counselor, mediatore familiare lui, metteranno a disposizione del gruppo le loro competenze professionali, la loro testimonianza di coppia, il loro cammino di fede. Parteciperanno anche Fra Alessandro Ciamei (responsabile del servizio Familiare dei frati del Lazio e cousellor), suor Paola Elisabetta Biosa (consulente familiare).
 
@@ -36,7 +37,7 @@ CHI PUO’ PARTECIPARE Il corso è aperto a COPPIE SPOSATE, CONVIVENTI
 
 **COSTI** per l’intero weekend in pensione completa: 130 € a persona per gli adulti, 65 per i bambini dai 3 agli 8 anni, gratis bambini sotto i tre anni. E’ previsto un servizio baby sitter compreso nel prezzo, grazie anche alle donazioni di benefattori che credono in quest’opera di Dio per la famiglia.
 
-**MODALITA’ DI ISCRIZIONE ** Cliccate il seguente [https://docs.google.com/forms/d/e/1FAIpQLSfSJAavfGl1IJrShDPYbKTPo4FbD0NQA-4N0cKNpt1DWXm9Fw/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSfSJAavfGl1IJrShDPYbKTPo4FbD0NQA-4N0cKNpt1DWXm9Fw/viewform?usp=sf_link) completate le informazioni richieste quindi inviatele mediate il pulsante INVIO.
+\*\*MODALITA’ DI ISCRIZIONE \*\* Cliccate il seguente [https://docs.google.com/forms/d/e/1FAIpQLSfSJAavfGl1IJrShDPYbKTPo4FbD0NQA-4N0cKNpt1DWXm9Fw/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSfSJAavfGl1IJrShDPYbKTPo4FbD0NQA-4N0cKNpt1DWXm9Fw/viewform?usp=sf_link) completate le informazioni richieste quindi inviatele mediate il pulsante INVIO.
 
 L'iscrizione sarà effettiva al versamento dell' acconto di 50€ a persona sull’IBAN IT73P0311103220000000000238
 
