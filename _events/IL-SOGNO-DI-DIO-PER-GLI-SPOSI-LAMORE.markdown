@@ -39,11 +39,7 @@ CASA FRANCESCA a Santa Maria degli Angeli (Assisi), via San Pio X n° 7.
 
 **MODALITA’ DI ISCRIZIONE**  Cliccate il seguente [https://docs.google.com/forms/d/e/1FAIpQLSfSJAavfGl1IJrShDPYbKTPo4FbD0NQA-4N0cKNpt1DWXm9Fw/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSfSJAavfGl1IJrShDPYbKTPo4FbD0NQA-4N0cKNpt1DWXm9Fw/viewform?usp=sf_link) completate le informazioni richieste quindi inviatele mediate il pulsante INVIO.
 
-L'iscrizione sarà effettiva al versamento dell' acconto di 50€ a persona sull’IBAN IT73P0311103220000000000238
-
-Intestato ad ASSOCIAZIONE DI PROMOZIONE SOCIALE AMATI PER AMARE. Nella Causale scrivere: DONAZIONE VOLONTARIA.
-
-Il saldo verrà effettuato ad inizio corso o prima con bonifico se preferite.
+Per rendere effettiva l'iscrizione verrete contattati.
 
 Sono aperte le iscrizioni fino al 15 maggio!
 
