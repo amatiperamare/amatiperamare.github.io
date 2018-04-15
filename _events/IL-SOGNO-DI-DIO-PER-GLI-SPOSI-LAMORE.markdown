@@ -7,7 +7,7 @@ Carissime Coppie vi proponiamo un weekend speciale per prendervi cura della vost
 
 ![File solo per il web.jpg](/uploads/File%20solo%20per%20il%20web.jpg)
 
-**QUANDO** Il ritiro comincia alle 14.00 dell’1 giugno. Chi lo desidera può prenotare il pranzo dalle suore previa comunicazione. Concluderemo il percorso la domenica 3 giugno con il pranzo.
+**QUANDO** Il ritiro comincia alle 15.00 dell’1 giugno. Chi lo desidera può prenotare il pranzo dalle suore previa comunicazione. Concluderemo il percorso la domenica 3 giugno con il pranzo.
 
 **DOVE** Saremo ospiti della comunità delle Suore Francescane dell'Addolorata presso
 
