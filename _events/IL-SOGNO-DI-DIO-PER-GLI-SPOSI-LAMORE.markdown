@@ -5,9 +5,9 @@ date: 2018-03-30 00:37:00 +02:00
 
 Carissime Coppie vi proponiamo un weekend speciale per prendervi cura della vostra relazione! Approfondiamo il tema dell’AMORE attraverso la preghiera, la Parola, momenti di catechesi e testimonianze, l’esperienza, il gioco e la condivisione. Per riscoprire quanto è bello amarsi da Dio e in Dio e godere insieme del dono dell’intimità e del Sacramento del matrimonio (per chi è sposato).
 
-![File solo per il web.jpg](/uploads/File%20solo%20per%20il%20web.jpg)
+![VOLANTINO NUOVO_w.jpg](/uploads/VOLANTINO%20NUOVO_w.jpg)
 
-**QUANDO** Il ritiro comincia alle 15.00 dell’1 giugno. Chi lo desidera può prenotare il pranzo dalle suore previa comunicazione. Concluderemo il percorso la domenica 3 giugno con il pranzo.
+**QUANDO** Il ritiro comincia alle 15.00 del 7 dicembre. Chi lo desidera può prenotare il pranzo dalle suore previa comunicazione. Concluderemo il percorso la domenica 9 dicembre con il pranzo.
 
 **DOVE** Saremo ospiti della comunità delle Suore Francescane dell'Addolorata presso
 
@@ -37,7 +37,7 @@ CASA FRANCESCA a Santa Maria degli Angeli (Assisi), via San Pio X n° 7.
 
 **COSTI** per l’intero weekend in pensione completa: 130 € a persona per gli adulti, 65 per i bambini dai 3 agli 8 anni, gratis bambini sotto i tre anni. E’ previsto un servizio baby sitter compreso nel prezzo, grazie anche alle donazioni di benefattori che credono in quest’opera di Dio per la famiglia.
 
-**MODALITA’ DI ISCRIZIONE**  Cliccate il seguente [https://docs.google.com/forms/d/e/1FAIpQLSfSJAavfGl1IJrShDPYbKTPo4FbD0NQA-4N0cKNpt1DWXm9Fw/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSfSJAavfGl1IJrShDPYbKTPo4FbD0NQA-4N0cKNpt1DWXm9Fw/viewform?usp=sf_link) completate le informazioni richieste quindi inviatele mediate il pulsante INVIO.
+**MODALITA’ DI ISCRIZIONE**  Cliccate il seguente  completate le informazioni richieste quindi inviatele mediate il pulsante INVIO.
 
 Per rendere effettiva l'iscrizione verrete contattati.
 
