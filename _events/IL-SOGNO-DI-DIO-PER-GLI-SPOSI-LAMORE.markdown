@@ -7,7 +7,7 @@ Carissime Coppie vi proponiamo un weekend speciale per prendervi cura della vost
 
 ![VOLANTINO NUOVO_w.jpg](/uploads/VOLANTINO%20NUOVO_w.jpg)
 
-**QUANDO** Il ritiro comincia alle 15.00 del 7 dicembre. Chi lo desidera può prenotare il pranzo dalle suore previa comunicazione. Concluderemo il percorso la domenica 9 dicembre con il pranzo.
+**QUANDO** Il ritiro comincia alle 14.30 del 7 dicembre. Chi lo desidera può prenotare il pranzo dalle suore previa comunicazione. Concluderemo il percorso la domenica 9 dicembre con il pranzo.
 
 **DOVE** Saremo ospiti della comunità delle Suore Francescane dell'Addolorata presso
 
