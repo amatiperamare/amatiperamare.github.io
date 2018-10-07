@@ -41,14 +41,12 @@ CASA FRANCESCA a Santa Maria degli Angeli (Assisi), via San Pio X n° 7.
 
 completate le informazioni richieste quindi inviatele mediate il pulsante INVIO.
 
-Per rendere effettiva l'iscrizione verrete contattati.
+# **Per rendere effettiva l'iscrizione verrete contattati.**
 
-Sono aperte le iscrizioni fino al 15 maggio!
-
-I POSTI SONO LIMITATI!!
+# I POSTI SONO LIMITATI!!
 
 Per altre informazioni contattateci
 
-via mail info@amatiperamre.it o ai numeri 3207830885
+**via mail info@amatiperamre.it o ai numeri 3207830885**
 
-3207830875
+**3207830875**
