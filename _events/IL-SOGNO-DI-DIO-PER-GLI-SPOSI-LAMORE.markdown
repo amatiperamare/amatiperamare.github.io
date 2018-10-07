@@ -47,6 +47,6 @@ completate le informazioni richieste quindi inviatele mediate il pulsante INVIO.
 
 Per altre informazioni contattateci
 
-**via mail info@amatiperamre.it o ai numeri 3207830885**
+**via mail info@amatiperamare.it o ai numeri 3207830885**
 
 **3207830875**
