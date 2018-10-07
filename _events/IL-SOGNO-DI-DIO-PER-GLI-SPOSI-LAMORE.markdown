@@ -15,7 +15,7 @@ CASA FRANCESCA a Santa Maria degli Angeli (Assisi), via San Pio X n° 7.
 
 **CHI PUO’ PARTECIPARE** Il corso è aperto a COPPIE SPOSATE, CONVIVENTI
 
-**CONDUTTORI** Il corso è condotto da Roberto e Claudia, la coppia di sposi che ha fondato l’associazione “Amati per Amare”. Psicoterapeuta lei e Dott. in psicologia dello sviluppo, counselor, mediatore familiare lui, metteranno a disposizione del gruppo le loro competenze professionali, la loro testimonianza di coppia, il loro cammino di fede. Parteciperanno anche Fra Alessandro Ciamei (responsabile del servizio Familiare dei frati del Lazio e cousellor), suor Paola Elisabetta Biosa (consulente familiare).
+**CONDUTTORI** Il corso è condotto da Roberto e Claudia, la coppia di sposi che ha fondato l’associazione “Amati per Amare”. Psicoterapeuta lei e Dott. in psicologia dello sviluppo, counselor, mediatore familiare lui, metteranno a disposizione del gruppo le loro competenze professionali, la loro testimonianza di coppia, il loro cammino di fede. Parteciperanno anche Fra Alessandro Ciamei (responsabile del servizio Familiare dei frati del Lazio e cousellor.
 
 **PROGRAMMA** In un clima di gioia, divertimento e fraternità vivremo momenti intensi e profondi in cui verranno affrontati i punti cardini della vita di coppia
 
