@@ -1,13 +1,14 @@
 ---
 title: IL SOGNO DI DIO PER GLI SPOSI L'AMORE
 date: 2018-03-30 00:37:00 +02:00
+published: false
 ---
 
 Carissime Coppie vi proponiamo un weekend speciale per prendervi cura della vostra relazione! Approfondiamo il tema dell’AMORE attraverso la preghiera, la Parola, momenti di catechesi e testimonianze, l’esperienza, il gioco e la condivisione. Per riscoprire quanto è bello amarsi da Dio e in Dio e godere insieme del dono dell’intimità e del Sacramento del matrimonio (per chi è sposato).
 
 ![VOLANTINO NUOVO_w.jpg](/uploads/VOLANTINO%20NUOVO_w.jpg)
 
-**QUANDO** Il ritiro comincia alle 14.30 del 7 dicembre. Chi lo desidera può prenotare il pranzo dalle suore previa comunicazione. Concluderemo il percorso la domenica 9 dicembre con il pranzo.
+**QUANDO** Il ritiro comincia alle 14.30 del 7 giugno. Chi lo desidera può prenotare il pranzo dalle suore previa comunicazione. Concluderemo il percorso la domenica 9 giugno con il pranzo.
 
 **DOVE** Saremo ospiti della comunità delle Suore Francescane dell'Addolorata presso
 
