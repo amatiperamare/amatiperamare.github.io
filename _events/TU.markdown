@@ -25,7 +25,7 @@ Saremo ospiti nel convento dei frati francescani del Lazio a Frascati (RM) in vi
 
 **CHI PUO’ PARTECIPARE** Il corso è aperto a giovani, dai 18 ai 40 anni.
 
-**COSTI**110 TUTTO COMPRESO (vitto alloggio, asciugamani e lenzuola)
+**COSTI **110 TUTTO COMPRESO (vitto alloggio, asciugamani e lenzuola)
 
 CONDUTTORI Il corso è condotto da Roberto e Claudia, la coppia di sposi che hanno fondato l’associazione “Amati per Amare”. Psicoterapeuta lei e Dott. in psicologia dello sviluppo, counsellor, mediatore familiare lui, metteranno a disposizione del gruppo le loro competenze professionali, la loro testimonianza di coppia, il loro cammino di fede. Parteciperanno anche Fra Alessandro Ciamei (responsabile del servizio Familiare dei frati del Lazio e cousellor).
 
