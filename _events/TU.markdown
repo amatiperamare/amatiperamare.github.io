@@ -11,7 +11,7 @@ categories:
 - AMATI PER AMARE
 ---
 
-![Bozza 5_web_.jpg](/uploads/Bozza%205_web_.jpg)
+**![Bozza 5_web_.jpg](/uploads/Bozza%205_web_.jpg)**
 
 Un’esperienza di tre giorni per riprendere in mano la tua storia di vita, rigenerare le tue ferite del cuore, benedire le zone d’ombra che non accetti di te e lì fare esperienza della presenza di Dio e cercare la strada per spalancare le finestre delle stanze più buie del tuo cuore, per fare entrare il fresco profumo dell’Amore di Dio che tutto sana, tutto cambia, tutto trasforma, se sei disposto a metterti in cammino.
 Un tempo prezioso fatto di momenti di gioco, catechesi, dinamiche di gruppo, confronto, preghiera, dialogo, creatività, per prendere consapevolezza di chi sei tu: l’AMATO! Quali sono i tuoi desideri profondi e cosa ti impedisce di realizzarli oggi.
@@ -34,7 +34,7 @@ completate le informazioni richieste quindi inviatele mediate il pulsante INVIO.
 
 Per rendere effettiva l'iscrizione verrete contattati.
 
-I POSTI SONO LIMITATI!!
+**I POSTI SONO LIMITATI!!**
 
 Per altre informazioni sui costi ed altro contattateci
-**info@amatiperamare.it** o ai numeri **3207830885 **o** 3207830875**
+**info@amatiperamare.it** o ai numeri **3207830885** **o 3207830875**
