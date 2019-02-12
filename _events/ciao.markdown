@@ -22,7 +22,7 @@ Appuntamento per le 14, per espletare iscrizione e sistemazione. L’incontro in
 **DOVE**
 Saremo ospiti nel convento dei frati francescani del Lazio a Frascati (RM) in via S. Francesco d’Assisi n° 3
 
-**CHI PUO’ PARTECIPARE** Il corso è aperto a giovani, dai 18 ai 40 anni.
+**CHI PUO’ PARTECIPARE** Il corso è aperto a giovani, dai 18 ai 40 anni single  e fidanzati.
 
 **COSTI** 110 TUTTO COMPRESO (vitto alloggio, asciugamani e lenzuola)
 
