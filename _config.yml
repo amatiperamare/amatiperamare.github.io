@@ -25,12 +25,9 @@ defaults:
     layout: post
     author: Roberto e Claudia
     summary: 
-description: "Corsi e ritiri per fidanzati, coppie di sposi e coppie in crisi. La
-  psicologia al servizio della Paola di Dio, per percorsi esperienziali in cui crescere
-  umanamente e spiritualmente nella fede e nell'amore di coppia. \nObbiettivi degli
-  incontri: fare un esperienza di Dio attraverso la preghiera, custodire la conoscenza
-  della Parola e dei sacramenti. Consolidare le risorse dell'individuo e della coppia,
-  affrontare le crisi, costruire un'intimità autentica, positiva e profonda."
+description: |-
+  Corsi e ritiri per single, fidanzati, coppie di sposi e coppie in crisi. La psicologia al servizio della Paola di Dio, per percorsi esperienziali in cui crescere umanamente e spiritualmente nella fede e nell'amore di coppia.
+  Obbiettivi degli incontri: fare un esperienza di Dio attraverso la preghiera, custodire la conoscenza della Parola e dei sacramenti. Consolidare le risorse dell'individuo e della coppia, affrontare le crisi, costruire un'intimità autentica, positiva e profonda.
 url: http://amatiperamare.it
 landing:
   image: "/uploads/logo%20amati%203%20(1).jpg"
