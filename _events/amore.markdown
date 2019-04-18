@@ -13,9 +13,11 @@ categories:
 - assisi
 ---
 
-![Volantino Giugno 2019_2.jpg](/uploads/Volantino%20Giugno%202019_2.jpg)Carissime Coppie vi proponiamo un weekend speciale per prendervi cura della vostra relazione! Approfondiamo il tema dell’AMORE attraverso la preghiera, la Parola, momenti di catechesi e testimonianze, l’esperienza, il gioco e la condivisione. Per riscoprire quanto è bello amarsi da Dio e in Dio e godere insieme del dono dell’intimità e del Sacramento del matrimonio (per chi è sposato). Per informazioni sul costo e per iscivervi conttattateci su **info@amatiperamare.itQUANDO**
+Carissime Coppie vi proponiamo un weekend speciale per prendervi cura della vostra relazione! Approfondiamo il tema dell’AMORE attraverso la preghiera, la Parola, momenti di catechesi e testimonianze, l’esperienza, il gioco e la condivisione. Per riscoprire quanto è bello amarsi da Dio e in Dio e godere insieme del dono dell’intimità e del Sacramento del matrimonio (per chi è sposato). 
 
-Il ritiro comincia alle 14.30 del 7 giugno. Chi lo desidera può prenotare il pranzo dalle suore previa comunicazione. Concluderemo il percorso la domenica 9 giugno con il pranzo.
+![Volantino Giugno 2019_2.jpg](/uploads/Volantino%20Giugno%202019_2.jpg)
+
+**QUANDO **Il ritiro comincia alle 14.30 del 7 giugno. Chi lo desidera può prenotare il pranzo dalle suore previa comunicazione. Concluderemo il percorso la domenica 9 giugno con il pranzo.
 
 **DOVE**Saremo ospiti della comunità delle Suore Francescane dell'Addolorata presso
 
@@ -43,4 +45,18 @@ CASA FRANCESCA a Santa Maria degli Angeli (Assisi), via San Pio X n° 7.
 
 · Custodire la preghiera e la relazione personale con Dio
 
-# 
+**COSTI**per l’intero weekend in pensione completa: 130 € a persona per gli adulti, 55 per i bambini dai 3 agli 8 anni, gratis bambini sotto i tre anni. E’previsto un servizio baby sitter compreso nel prezzo, grazie anche alle donazioni di benefattori che credono in quest’opera di Dio per la famiglia.
+
+**MODALITA’ DI ISCRIZIONE**Cliccate il seguente link [https://docs.google.com/forms/d/e/1FAIpQLSeIa9AyFcLvyLwQWiXRcxhgsKYxE0f70yJM6fBiGBCtSJEJiA/viewform?usp=pp_url](https://docs.google.com/forms/d/e/1FAIpQLSeIa9AyFcLvyLwQWiXRcxhgsKYxE0f70yJM6fBiGBCtSJEJiA/viewform?usp=pp_url)
+
+completate le informazioni richieste quindi inviatele mediate il pulsante INVIO.
+
+**Per rendere effettiva l'iscrizione verrete contattati.**
+
+**I POSTI SONO LIMITATI!!**
+
+Per altre informazioni contattateci
+
+**via mail info@amatiperamare.it o ai numeri 3207830885**
+
+**3207830875**
