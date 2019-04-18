@@ -2,6 +2,16 @@
 title: Il sogno di Dio per gli sposi l'AMORE
 date: 2019-04-12 13:37:00 +02:00
 published: false
+categories:
+- ritiro
+- amore
+- coppia
+- esperienza
+- dono
+- dio
+- suore
+- frati
+- assisi
 ---
 
 ![Volantino Giugno 2019_2.jpg](/uploads/Volantino%20Giugno%202019_2.jpg)Carissime Coppie vi proponiamo un weekend speciale per prendervi cura della vostra relazione! Approfondiamo il tema dell’AMORE attraverso la preghiera, la Parola, momenti di catechesi e testimonianze, l’esperienza, il gioco e la condivisione. Per riscoprire quanto è bello amarsi da Dio e in Dio e godere insieme del dono dell’intimità e del Sacramento del matrimonio (per chi è sposato).
