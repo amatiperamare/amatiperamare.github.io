@@ -1,7 +1,6 @@
 ---
 title: Il sogno di Dio per gli sposi l'AMORE
 date: 2019-04-12 13:37:00 +02:00
-published: false
 categories:
 - ritiro
 - amore
