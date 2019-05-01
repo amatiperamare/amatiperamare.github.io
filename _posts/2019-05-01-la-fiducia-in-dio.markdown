@@ -1,0 +1,28 @@
+---
+title: LA FIDUCIA IN DIO NEL MATRIMONIO
+date: 2019-05-01 11:31:00 +02:00
+categories:
+- amore
+- spirito santo
+- Dio
+- amore a se
+- coppie
+- dono
+- sponsalità
+- matrimonio
+tags:
+- amati per amare
+- il matrimonio cristiano
+- intercomunione di famiglie
+- suore francescane dell'addolorata
+---
+
+Una delle ferite più dolorose con cui l’uomo deve fare i conti è la menzogna, che si porta dentro fin dai tempi di Adamo ed Eva, che Dio ti tende delle trappole. La sensazione o il pensiero che prima o poi Dio ti fregherà, se non ti sta già imbrogliando, e che di Lui non ci si può fidare.
+
+![Morte-in-culla-e-vaccini-gli-interventi-dopo-il-caso-della-bimba-di-2-mesi.jpg](/uploads/Morte-in-culla-e-vaccini-gli-interventi-dopo-il-caso-della-bimba-di-2-mesi.jpg)
+
+A maggior ragione se stai attraversando una crisi personale o matrimoniale, hai la sensazione di aver sbagliato tutto, aver preso delle cantonate e magari metti pure in dubbio la tua fede e la tua relazione con Dio. Dio diventa lo schermo bianco dove proietti quel genitore aguzzino che ti porti dentro, e pensi che se davvero ti lasciassi penetrare dallo sguardo di Dio fino alle tue zone d’ombra, Egli si vergognerebbe di te, così come tu ti biasimi e ti accusi. Ma questo non è Dio. Sappi che ogni volta che ti parte un giudizio duro e nefasto verso te stesso o gli altri, quella voce non viene da Dio, viene dal demonio. Il senso di colpa non è di Dio, il senso di responsabilità si. Il linguaggio dello Spirito Santo, che è fermo e potente, esprime la verità su di te sempre con incoraggiamento, supporto, sostegno, come un coach che mai smetterà di credere nella possibilità che tu possa fiorire e portare frutto.
+Il Vangelo di oggi spiega e racconta chi è Dio. E non è facile per l’uomo poter credere a tutto questo amore, senza la minima fregatura, senza che prima o poi ne dovrà pagare il prezzo. Per certi versi perché ci portiamo dentro un’idea dell’amore di Dio da centro benessere, privo di scomodità e fastidi. E per altri fronti perché non ci siamo abituati a questa qualità di amore. Se hai avuto dei genitori freddi che non ti hanno abbracciato o coccolato, se ti arrivano abbracci e tenerezze in abbondanza ti danno fastidio, quasi ti urtano, ti fanno male, perché non sono familiari, non ci sei abituato. Così l’uomo non è abituato all’Amore straripante di Dio, e spesso prenderne consapevolezza fa male. Ma non è un dolore fine a se stesso, ma una di quelle fitte utili a purificare dalle sozzure una ferita che rischia di infettarsi. 
+Il Signore Gesù Cristo con la sua venuta, una cosa sola desidera portare a compimento: la possibilità per TUTTI di essere salvati attraverso l’amore, non la legge o la morale, ma l’amore di un atto potente che renda testimonianza di quanto Dio ci tiene a te. Nella crocifissione di Gesù si rivela l’amore di Dio, nella sua Risurrezione si manifesta la Potenza di Dio. Ma credere a questo amore è un problema per l’uomo, perché significa “mettere sotto la luce di Cristo le nostre povertà” (D. Fabio Rosini), accettare di essere un vuoto umile che la luce dell’Amore di Dio può riempire e in figura Christi manifestare la Sua Gloria attraverso gesti, parole e sguardi di affetto e bene a chi ti circonda.
+Nei momenti di peggiore crisi nel mio matrimonio non so quante volte ho pensato che quell’8 dicembre 2005 avessimo tutti preso una grossa cantonata, che tutti i corsi e percorsi fatti fossero stati una gran presa per i fondelli. La cosa che più mi faceva male era sentire preti, frati e suore che mi dicevano che il matrimonio ahimè era questo, e che mi dovevo incollare sta croce e sopportare ogni abuso andando avanti. Ma ti pare che il Signore Gesù Cristo mi ha creato semplicemente per sopportare e stringere i denti? Ma credi davvero che una crisi matrimoniale sia solo un sassolino appuntito dentro la scarpa che ti ricorda che devi patire, devi soffrire e devi morire!!! La menzogna che l’incontro con Dio fosse stata una fregatura mi distruggeva. Se c’è una cosa che mi ha insegnato Don Fabio Rosini che non dimenticherò mai è questa: una cosa sola devi temere, di perderti Dio nella tua vita! Ma io Dio l’ho conosciuto. L’ho incontrato. Io mi fido di Lui. E facendo memoria, in quei momenti bui, di chi era Dio per me ho trovato me stessa e la fiducia nella nostra relazione. Mi sono messa in cammino combattendo la buona battaglia dell’Amore sposale, che mi chiamava a crescere, a fare salti di qualità, cambiamenti, a riprendermi la mia libertà perduta. LIBERTA’. Sentirmi libera. Libera di restare, libera di amare mio marito da una posizione adulta non da bambina vittima e fregnona. Mentre io e Roberto facevamo verità su di noi, su chi eravamo, sulle nostre ferite, i limiti, sulle nostre proiezioni, il nostro matrimonio andava verso la LUCE, e si caricava di una forza mai vista prima. Quella luce è l’amore di Cristo per me Claudia, per Roberto. Ci ricorda che siamo chiamati a progetti altissimi, pervasivi e impegnativi per lasciare a questo mondo il profumo del suo Amore, su noi stessi, la nostra famiglia, i nostri figli e sugli altri. 
+Spesso la mattina faccio colazione sul balcone di casa mia, ed è un momento tutto speciale per me prima della maratona giornaliera. E medito e rifletto sul fatto che sono una miracolata, che la mia vita poteva sprofondare nella depressione, che il mio matrimonio poteva spaccarsi per l’egoismo e la rabbia. Penso a tutti i traumi della mia infanzia che avrebbero potuto annientarmi. E invece sono qui, sul balcone di casa mia, a guardare quella fetta di cielo azzurrissimo sovrastato dai palazzi di cemento, a ricordarmi che l’Amore di Dio vince sempre e su ogni cosa se lo desideri ardentemente nella tua vita e non ti arrendi mai di cercarLo.
