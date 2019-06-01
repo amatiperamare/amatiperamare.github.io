@@ -12,6 +12,8 @@ categories:
 - scuola
 - lasciare andare
 - cuore
+tags:
+- amati per amare
 author: 'Claudia '
 ---
 
