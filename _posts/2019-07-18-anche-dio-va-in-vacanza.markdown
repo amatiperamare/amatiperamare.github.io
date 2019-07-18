@@ -1,6 +1,19 @@
 ---
 title: ANCHE DIO VA IN VACANZA. E TU?
 date: 2019-07-18 22:55:00 +02:00
+categories:
+- amore
+- debolezza
+- vacanza
+- dio
+- stare
+- adolescente
+- ferite
+tags:
+- valtellina
+- amatiperamare
+- vacanza
+Field name: 
 ---
 
 Scrivo dalle montagne profumatissime della Valtellina. Questi giorni in montagna sono un regalo non previsto perché quest’anno ci dobbiamo ripagare la macchina nuova e dobbiamo risparmiare, perciò niente settimana in Trentino.
