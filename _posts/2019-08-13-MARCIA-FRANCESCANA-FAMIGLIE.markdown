@@ -1,0 +1,33 @@
+---
+title: 'AL POSTO TUO: UN''ESPERIENZA DELLA MARCIA FRANCESCANA DELLE FAMIGLIE'
+date: 2019-08-13 16:32:00 +02:00
+categories:
+- marcia francescana
+- frati assisi
+- famiglia
+- perdono
+- dono
+- amore
+- coppia
+- regalo
+- terra di assisi
+- san francesco
+una cura francescana per la famiglia 2o+: https://www.facebook.com/Una-cura-francescana-per-la-famiglia-1245634582270124/
+Field name: 
+Key:
+- 
+---
+
+I Reis alla marcia delle famiglie LAZIO-ABBRUZZO. Tenendo conto che mio marito sta scomodo pure sul letto dell’hotel cinque stelle se non ha il suo cuscino, la vedo dura per lui. Ma Roberto è deciso perché ha avuto l’intuizione! E quando lui intuisce la famiglia è rovinata… e non si torna indietro. 
+
+![MARCIA FRANCESCANA AMATI PER AMARE.jpg](/uploads/MARCIA%20FRANCESCANA%20AMATI%20PER%20AMARE.jpg)
+
+Perciò siamo i primi iscritti. Io invece faccio la figona perché torno a marciare dopo 17 anni. Nel 2003 ho fatto la mia prima…e ultima direi visto lo strazio vissuto: dopo la prima tappa m’è toccato posare lo zaino umiliata nei miei limiti fisici; non è trascorso un giorno senza che io piangessi a dirotto, umiliata nei miei limiti affettivi. La marcia Francescana è un’esperienza umiliante. Ma non in senso dispregiativo, perché Dio non svergogna mai. Ma nel senso che ti fa tornare alla verità di te stesso, né di più né di meno di ciò che sei, di ciò che sono. Ma mentre percorro questo viaggio verso me stessa nei miei freschi vent’anni non sono sola, ma circondata da amici vecchi e nuovi che sono con me. Alla fine dei 10 giorni della marcia giovani “Amare oltre”, giorni duri, intensi e bellissimi, la messa conclusiva è dalle Clarisse su a Santa Chiara. La Madre Superiora ci dice che adesso, dopo questo lungo pellegrinaggio, abbiamo il cuore pronto per chiedere una Grazia, che dobbiamo scriverlo su un foglietto da imbucare e che le Sorelle pregheranno per noi. Diciassette anni dopo eccomi qua, col frutto di quella Grazia: mio marito e i miei figli. Perciò io inizio questa marcia delle famiglie con la gratitudine nel cuore, di un Dio che non delude mai, un Dio che quando gli hai consegnato tutto, ti regala tutto. Con una fede incrollabile so che alla fine di questa marcia riceverò sicuramente un regalo specialissimo, non importano le fatiche e i momenti di scoraggiamento appresso ai miei figli che faranno di certo un casino, si perderanno tutto (calzini, gavette, posate…) e le figuracce non si conteranno. Mio marito invece è fresco e tenero, e se all’inizio sembrava l’anello debole della catena familiare si è rivelato una roccia! Tuttavia mie ero dimenticata cosa rappresentasse la marcia per me. Come i dolori del travaglio, che dopo il parto te li dimentichi quando ti mettono quel fagottino umano fra le braccia. La marcia uguale. La gioia che provi quanto arrivi fra le braccia della Basilica di Santa Maria è così dirompente che ti dimentichi quanto hai faticato per arrivarci.
+La marcia è un’esperienza di semplicità, adattamento, condivisione, che mi toglie tutte le sovrastrutture che di solito uso per sembrare una persona migliore di quella che sono. All’inizio mi sento forte, anche se sono preoccupata soprattutto su come la vivranno i bambini. Ma già al secondo giorno sto al telefono con la mia migliore amica a piangere col mocciolo al naso che non ce la posso fare, che ho chiesto troppo a me stessa, che come mi è venuto in mente di fare sta cosa. La mia amica non mi da soluzioni, ma c’è, mi incoraggia e condivide quel dolore con me. Mi sembra un’estensione di Dio in quel momento. Quante volte Dio non mi risolve il problema, ma c’è, mi sta accanto. Elide è uguale. Mi urtano i capricci dei miei figli, dormire nelle palestre tutti insieme, mi urta quello che ha steso sulla mia corda senza chiedermelo. Mi urtano le campane che suonano alle 6 quando la sveglia è alle 7. Tolleranza zero! Non è un bel biglietto di presentazione il mio. Non ci faccio un gran bella figura. Ma il regalo di Dio per me per me è proprio questo:
+“Claudia ti amo così come sei, col tuo timore di essere giudicata, con la tua insofferenza,
+con la tua evitanza e con le tue chiusure. Proprio quando tu ti piaci di meno Claudia,
+io ti amo di più. Quelle parti che tu scarti, per me sono le più belle.”
+La fraternità ci fa sperimentare che non siamo soli, che siamo una cordata umana verso l’amore di Dio, e che quando le famiglie si uniscono sono una potenza! Condividiamo spazi, mezzi, sguardi di attenzione gli uni verso gli altri. Mani che spingono passeggini di altri, braccia che sorreggono bambini piccoli che non ce la fanno più. E poi c’è lui, questo frate speciale di cui non scrivo il nome, un amico speciale, una guida dolcissima che asciuga le mie lacrime, che è per me quell’abbraccio che posso ricevere, che accoglie quelle confidenze più intime che da un anno mi esplodono dentro.  Mio marito, che è il mio migliore amico, mi incoraggia, sostiene, mi accoglie in tutto e quando sono più scorbutica si fa una risata e sdrammatizza. Il cuore semplice di Roberto si gusta la gioia dell’intuizione di Dio, che gli dice di stare al suo posto nella relazione con i nostri figli, senza strafare, senza volersi sostituire a loro, senza togliergli la fatica di crescere. Tu non sei i tuoi figli e i tuoi figli non sono te. Si gode la fraternità, gli amici già conosciuti e quelli nuovi scoperti. Chiacchiera con tutti e si fa conoscere con autenticità.
+Io sopporto tutto per un solo momento: l’entrata in Porziuncola. L’istante in cui ho baciato la Terra Santa di Francesco insieme ai miei figli, gli sguardi commossi e gli applausi sentiti, di tutta la gente che ci accoglie, come se sapesse la fatica vissuta. Una specie di standing-ovation tutta per me che è durata tantissimo. Quanto ho pianto non si sa. Che gioia l’amore di Dio e dei fratelli che riempie tutte le feritoie dell’anima. La marcia delle famiglie è un’esperienza potente nell’Amore, che parte dalla realtà, dalla concretezza dei nostri piedi che calpestano la strada, del sudore e dei pasti buonissimi del servizio, delle docce fresche che rifiatano e delle risate che rinfrancano.
+Non mi nascondo. Se a tratti mi vergogno delle mie zone d’ombra, dall’altro sono felice di mettere le mie parti più scure nelle mani della Misericordia di Dio, che mi porta dritto in Paradiso, qui ed ora. Sono felice e carica. E la gioia più grande è che vivo tutto questo con la mia famiglia.
+Perciò se proprio ti vuoi fare un bel regalo l’anno prossimo, dedicati LA MARCIA FRANCESCANA DELLE FAMIGLIE. Perché fidati, non resterai deluso!!
