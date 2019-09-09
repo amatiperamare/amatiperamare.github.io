@@ -14,7 +14,7 @@ categories:
 - grazia
 ---
 
-Nella catechesi della prima tappa abbiamo raccontato di come l’uomo ha perso la comunione con Dio e la possibilità di godersi la bellezza di quel giardino donato, rifiutando **i suoi limiti e cedendo a quella bugia che lo vuole convincere che sarà benedetto e felice quando sarà come Dio.**
+Nella catechesi della prima tappa abbiamo raccontato di come l’uomo ha perso la comunione con Dio e la possibilità di godersi la bellezza di quel giardino donato, rifiutando i suoi limiti e** cedendo a quella bugia che lo vuole convincere che sarà benedetto e felice quando sarà come Dio.**
 
 ![benedetta carne amati per mare.jpg](/uploads/benedetta%20carne%20amati%20per%20mare.jpg)
 
