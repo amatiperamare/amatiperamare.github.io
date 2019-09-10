@@ -17,14 +17,14 @@ Appuntamento per le 14, per espletare iscrizione e sistemazione. L’incontro in
 
 PRESSO CASA TABOR delle SUORE FRANCESCANE DELL'ADDOLORATA, Via Paolo III, 9, 00165 Roma RM
 
-**\
-CHI PUO’ PARTECIPARE **Il corso è aperto a PERSONE, dai 18 ai 45 anni.
+\
+**CHI PUO’ PARTECIPARE** Il corso è aperto a PERSONE, dai 18 ai 45 anni.
 
-**\
-COSTI **130 TUTTO COMPRESO (vitto, alloggio, asciugamani e lenzuola)
+\
+**COSTI** 130 TUTTO COMPRESO (vitto, alloggio, asciugamani e lenzuola)
 
-**\
-CONDUTTORI **Il corso è condotto da Roberto e Claudia, la coppia di sposi che hanno fondato l’associazione “Amati per Amare”. Psicoterapeuta lei e Dott. in psicologia dello sviluppo, counsellor, mediatore familiare lui, metteranno a disposizione del gruppo le loro competenze professionali, la loro testimonianza di coppia, il loro cammino di fede. Ci daranno una mano i frati minori e le suore francescane dell'Addolorata.
+\
+**CONDUTTORI** Il corso è condotto da Roberto e Claudia, la coppia di sposi che hanno fondato l’associazione “Amati per Amare”. Psicoterapeuta lei e Dott. in psicologia dello sviluppo, counsellor, mediatore familiare lui, metteranno a disposizione del gruppo le loro competenze professionali, la loro testimonianza di coppia, il loro cammino di fede. Ci daranno una mano i frati minori e le suore francescane dell'Addolorata.
 
 **MODALITÀ D’ISCRIZIONE**Cliccate il seguente link [https://docs.google.com/forms/d/e/1FAIpQLSdFPfuHxQp-8SEWpntgb1wh_xBajXyH1gUVGS0kQDRjenaicw/viewform ](https://docs.google.com/forms/d/e/1FAIpQLSdFPfuHxQp-8SEWpntgb1wh_xBajXyH1gUVGS0kQDRjenaicw/viewform)completate le informazioni richieste quindi inviatele mediate il pulsante INVIO.
 
