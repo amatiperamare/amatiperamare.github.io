@@ -38,13 +38,11 @@ PRESSO CASA TABOR delle SUORE FRANCESCANE DELL'ADDOLORATA, Via Paolo III, 9, 001
 
 # **Per rendere effettiva l'iscrizione verrete contattati.**
 
-# 
-
+ 
 **I POSTI SONO LIMITATI!!**
 
 Per altre informazioni sui costi ed altro contattateci
 
 via mail info@amatiperamare.it o ai numeri 3207830885 o 3207830875
 
-\
 **NON E' PREVISTA LA MESSA DEL 1 NOVEMBRE, INVECE QUELLA DELLA DOMENICA SI**
