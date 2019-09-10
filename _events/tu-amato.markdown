@@ -28,7 +28,9 @@ CONDUTTORI **Il corso è condotto da Roberto e Claudia, la coppia di sposi che h
 
 **MODALITÀ D’ISCRIZIONE**Cliccate il seguente link [https://docs.google.com/forms/d/e/1FAIpQLSdFPfuHxQp-8SEWpntgb1wh_xBajXyH1gUVGS0kQDRjenaicw/viewform ](https://docs.google.com/forms/d/e/1FAIpQLSdFPfuHxQp-8SEWpntgb1wh_xBajXyH1gUVGS0kQDRjenaicw/viewform)completate le informazioni richieste quindi inviatele mediate il pulsante INVIO.
 
-**Per rendere effettiva l'iscrizione verrete contattati.**
+# **Per rendere effettiva l'iscrizione verrete contattati.**
+
+# 
 
 **I POSTI SONO LIMITATI!!**
 
