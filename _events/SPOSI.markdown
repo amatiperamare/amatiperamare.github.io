@@ -15,17 +15,17 @@ Carissime Coppie vi proponiamo un weekend speciale per prendervi cura della vost
 
 ![ritiro coppie dicembre.jpg](/uploads/ritiro%20coppie%20dicembre.jpg)
 
-**QUANDO **Il ritiro comincia alle 14.30 del 6 DICEMBRE. Concluderemo il percorso la domenica 8 DICEMBRE con il pranzo.
+**QUANDO** Il ritiro comincia alle 14.30 del 6 DICEMBRE. Concluderemo il percorso la domenica 8 DICEMBRE con il pranzo.
 
-**DOVE **Saremo ospiti della comunità delle Suore Francescane dell'Addolorata presso
+**DOVE** Saremo ospiti della comunità delle Suore Francescane dell'Addolorata presso
 
 CASA FRANCESCA a Santa Maria degli Angeli (Assisi), via San Pio X n° 7. GOOGLE MAPS [https://goo.gl/maps/EGnjLDPMv4Ujafbh8](https://goo.gl/maps/EGnjLDPMv4Ujafbh8)
 
-**CHI PUO’ PARTECIPARE **Il corso è aperto a COPPIE SPOSATE, CONVIVENTI
+**CHI PUO’ PARTECIPARE** Il corso è aperto a COPPIE SPOSATE, CONVIVENTI
 
-**CONDUTTORI **Il corso è condotto da Roberto e Claudia, la coppia di sposi che ha fondato l’associazione “Amati per Amare”. Psicoterapeuta lei e Dott. in psicologia dello sviluppo, counselor, mediatore familiare lui, metteranno a disposizione del gruppo le loro competenze professionali, la loro testimonianza di coppia, il loro cammino di fede. Parteciperanno anche IL Teologo Robert Cheaib
+**CONDUTTORI** Il corso è condotto da Roberto e Claudia, la coppia di sposi che ha fondato l’associazione “Amati per Amare”. Psicoterapeuta lei e Dott. in psicologia dello sviluppo, counselor, mediatore familiare lui, metteranno a disposizione del gruppo le loro competenze professionali, la loro testimonianza di coppia, il loro cammino di fede. Parteciperanno anche IL Teologo Robert Cheaib
 
-**PROGRAMMA **In un clima di gioia, divertimento e fraternità vivremo momenti intensi e profondi in cui verranno affrontati i punti cardini della vita di coppia
+**PROGRAMMA** In un clima di gioia, divertimento e fraternità vivremo momenti intensi e profondi in cui verranno affrontati i punti cardini della vita di coppia
 
 · Il sacramento del matrimonio: per ricordarci a quale bellezza siamo chiamati come sposi, l'amore indissolubile ricevuto da Dio lo restituiamo al nostro partner.
 
@@ -43,9 +43,9 @@ CASA FRANCESCA a Santa Maria degli Angeli (Assisi), via San Pio X n° 7. GOOGLE 
 
 · Custodire la preghiera e la relazione personale con Dio
 
-**COSTI **per l’intero weekend in pensione completa: 130 € a persona per gli adulti, 65 per i bambini dai 3 agli 8 anni, gratis bambini sotto i tre anni. E’previsto un servizio baby sitter compreso nel prezzo, grazie anche alle donazioni di benefattori che credono in quest’opera di Dio per la famiglia.
+**COSTI** per l’intero weekend in pensione completa: 130 € a persona per gli adulti, 65 per i bambini dai 3 agli 8 anni, gratis bambini sotto i tre anni. E’previsto un servizio baby sitter compreso nel prezzo, grazie anche alle donazioni di benefattori che credono in quest’opera di Dio per la famiglia.
 
-**MODALITA’ DI ISCRIZIONE **Cliccate il seguente link [https://docs.google.com/forms/d/e/1FAIpQLScj_s8KbYWITG8WdMpuqMUJ_E59MMqgENkaKmZ0C2tqEfkNvQ/viewform?usp=pp_url        ](https://docs.google.com/forms/d/e/1FAIpQLScj_s8KbYWITG8WdMpuqMUJ_E59MMqgENkaKmZ0C2tqEfkNvQ/viewform?usp=pp_url)                                        le informazioni richieste quindi inviatele mediate il pulsante INVIO.
+**MODALITA’ DI ISCRIZIONE** Cliccate il seguente link [https://docs.google.com/forms/d/e/1FAIpQLScj_s8KbYWITG8WdMpuqMUJ_E59MMqgENkaKmZ0C2tqEfkNvQ/viewform?usp=pp_url        ](https://docs.google.com/forms/d/e/1FAIpQLScj_s8KbYWITG8WdMpuqMUJ_E59MMqgENkaKmZ0C2tqEfkNvQ/viewform?usp=pp_url)                                        le informazioni richieste quindi inviatele mediate il pulsante INVIO.
 
 **Per rendere effettiva l'iscrizione verrete contattati.**
 
