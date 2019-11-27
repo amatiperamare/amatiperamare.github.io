@@ -2,6 +2,21 @@
 title: NEW LIBRO
 date: 2019-10-02 17:51:00 +02:00
 published: false
+categories:
+- amore
+- coppia
+- dono
+- Dio
+- piatti
+- litigio
+- pace
+- perdono
+- sesso
+- amatiperamare
+tags:
+- amatiperamare
+- claudia viola
+- roberto reis
 ---
 
 ![E-poi-volarono-i-piatti_cop2019.jpg](/uploads/E-poi-volarono-i-piatti_cop2019.jpg)
