@@ -31,6 +31,6 @@ Cari amici di amati per amare, vi proponiamo un percorso di spiritual-counsellin
 
 **CONTRIBUTO ECONOMICO A PARTECIPANTE**: 20 euro ad incontro.
 
-**PER INFO: **3451608903
+**PER INFO**: 3451608903
 
-**N.B. **Non è possibile partecipare ai singoli incontri, ma occorre frequentare l’intero percorso al fine di custodire un clima di intimità e continuità.
+**N.B.** Non è possibile partecipare ai singoli incontri, ma occorre frequentare l’intero percorso al fine di custodire un clima di intimità e continuità.
