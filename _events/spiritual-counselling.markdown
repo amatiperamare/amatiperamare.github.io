@@ -12,7 +12,7 @@ categories:
 tags:
 - AMATI PER AMARE
 - FRATI MINORI
-position: 3
+position: 2
 summary: FRA ALESSANDRO CIAMEI
 ---
 

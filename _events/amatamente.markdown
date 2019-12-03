@@ -1,7 +1,7 @@
 ---
 title: AMATAMENTE
 date: 2019-12-02 17:06:00 +01:00
-position: 2
+position: 1
 ---
 
 Carissimi amici di Amati per Amare, è con grande entusiasmo che lanciamo il percorso di CRESCITA UMANA E PSICOLOGICA "AmataMente "! Un percorso di gruppo che nasce per rispondere alle tante richieste di lavoro umano e psicologico ricevute.
