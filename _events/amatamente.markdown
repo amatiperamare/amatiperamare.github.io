@@ -14,7 +14,7 @@ Carissimi amici di Amati per Amare, è con grande entusiasmo che lanciamo il per
 
 **DURATA**: Il percorso di 12 incontri partirà a gennaio 2020 fino a giugno 2020.
 
-**COSTI**: 30 euro ad incontro. Il gruppo è di max 12 persone per cui se siete interessati affrettatevi a prenotarvi chiamando il 3207830875 e inserendo i vostri dati nel link.
+**COSTI**: 30 euro ad incontro. Il gruppo è di max 12 persone per cui se siete interessati affrettatevi a prenotarvi chiamando il 3207830875 e inserendo i vostri dati nel link. [https://docs.google.com/forms/d/e/1FAIpQLSfkjP2SKTBdyyjteM9tYxc3vPPME8jVQiwMoQ5o1cPT_LesfQ/viewform?usp=pp_url](https://docs.google.com/forms/d/e/1FAIpQLSfkjP2SKTBdyyjteM9tYxc3vPPME8jVQiwMoQ5o1cPT_LesfQ/viewform?usp=pp_url)
 
 **CONDUTTORI**: I conduttori siamo noi: Claudia Viola (Psicoterapeuta, Analista Transazionale, Terapeuta EMDR II livello) e Roberto Reis (dottore in psicologia, Counsellor e Mediatore Familiare).
 
