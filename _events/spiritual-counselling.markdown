@@ -15,9 +15,7 @@ tags:
 summary: FRA ALESSANDRO CIAMEI
 ---
 
-Cari amici di amati per amare, vi proponiamo un percorso di spiritual-counselling con un frate di grandissimo spessore spirituale e umano: fra Alessandro Ciamei. Un’occasione più unica che rara per fare esperienza di Dio e di fede incarnata nella realtà della tua vita e della tua storia.
-
-![SPIRITUAL COUNSELLING.jpg](/uploads/SPIRITUAL%20COUNSELLING.jpg)
+Cari amici di amati per amare, vi proponiamo un percorso di spiritual-counselling con un frate di grandissimo spessore spirituale e umano: fra Alessandro Ciamei. Un’occasione più unica che rara per fare esperienza di Dio e di fede incarnata nella realtà della tua vita e della tua storia.![SPIRITUAL COUNSELLING.jpg](/uploads/SPIRITUAL%20COUNSELLING.jpg)
 
 **CONDUTTORE**: Fra Alessandro Ciamei (Counsellor Formatore, Counsellor Pastorale e Analista Transazionale Certificato).
 
