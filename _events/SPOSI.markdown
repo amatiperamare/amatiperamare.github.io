@@ -10,7 +10,7 @@ categories:
 - sogno
 - dio
 - sposi
-position: 4
+position: 3
 ---
 
 Carissime Coppie vi proponiamo un weekend speciale per prendervi cura della vostra relazione! Approfondiamo il tema dell’AMORE attraverso la preghiera, la Parola, momenti di catechesi e testimonianze, l’esperienza, il gioco e la condivisione. Per riscoprire quanto è bello amarsi da Dio e in Dio e godere insieme del dono dell’intimità e del Sacramento del matrimonio (per chi è sposato).

@@ -16,7 +16,7 @@ tags:
 - amatiperamare
 - claudia viola
 - roberto reis
-position: 3
+position: 2
 ---
 
 ![E-poi-volarono-i-piatti_cop2019.jpg](/uploads/E-poi-volarono-i-piatti_cop2019.jpg)
