@@ -4,8 +4,8 @@ date: 2019-12-02 17:06:00 +01:00
 published: false
 ---
 
-Carissimi amici di Amati per Amare, è con grande entusiasmo che lanciamo il percorso di CRESCITA UMANA E PSICOLOGICA "AmataMente "! Un percorso di gruppo che nasce per rispondere alle tante richieste di lavoro umano e psicologico ricevute.
-
+Carissimi amici di Amati per Amare, è con grande entusiasmo che lanciamo il percorso di CRESCITA UMANA E PSICOLOGICA "AmataMente "! Un percorso di gruppo che nasce per rispondere alle tante richieste di lavoro umano e psicologico ricevute.\
+\
 ![amatament.jpg](/uploads/amatament.jpg)
 
 **OBBIETTIVO**: favorire il cambiamento strategico di quegli aspetti personali e relazionali che ti fanno soffrire, per fiorire nella tua autostima e identità, per fare centro nella relazione con te stesso e con gli altri.
