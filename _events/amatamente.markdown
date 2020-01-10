@@ -16,7 +16,7 @@ Carissimi amici di Amati per Amare, è con grande entusiasmo che lanciamo il per
 
 **CONDUTTORI**: I conduttori siamo noi: Claudia Viola (Psicoterapeuta, Analista Transazionale, Terapeuta EMDR II livello) e Roberto Reis (dottore in psicologia, Counsellor e Mediatore Familiare).
 
-Le prime date è: il 21 gennaio 2020.
+La prima data è: il 21 gennaio 2020.
 
 Il primo giorno di incontro consegneremo il calendario con tutte le date.
 
