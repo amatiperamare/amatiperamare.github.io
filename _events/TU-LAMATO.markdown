@@ -30,7 +30,9 @@ PRESSO CASA CABURLOTTO, Via ANNIA REGILLA 60 ROMA
 
 **CONDUTTORI** Il corso è condotto da Roberto e Claudia, la coppia di sposi che hanno fondato l’associazione “Amati per Amare”. Psicoterapeuta lei e Dott. in psicologia dello sviluppo, counsellor, mediatore familiare lui, metteranno a disposizione del gruppo le loro competenze professionali, la loro testimonianza di coppia, il loro cammino di fede. Ci daranno una mano i frati minori e le suore francescane dell'Addolorata.
 
-**MODALITÀ D’ISCRIZIONE** Cliccate il seguente link [https://docs.google.com/forms/d/e/1FAIpQLSe48JcecZqaHllyqoyqRAxvHrrZpKG7zVSC-ftpfFkAiaalpA/viewform?usp=pp_url](https://docs.google.com/forms/d/e/1FAIpQLSe48JcecZqaHllyqoyqRAxvHrrZpKG7zVSC-ftpfFkAiaalpA/viewform?usp=pp_url) le informazioni richieste quindi inviatele mediate il pulsante INVIO.
+**MODALITÀ D’ISCRIZIONE** Cliccate il seguente link [https://docs.google.com/forms/d/e/1FAIpQLSe48JcecZqaHllyqoyqRAxvHrrZpKG7zVSC-ftpfFkAiaalpA/viewform?usp=pp_url](https://docs.google.com/forms/d/e/1FAIpQLSe48JcecZqaHllyqoyqRAxvHrrZpKG7zVSC-ftpfFkAiaalpA/viewform?usp=pp_url) 
+
+le informazioni richieste quindi inviatele mediate il pulsante INVIO.
 
 # **Per rendere effettiva l'iscrizione verrete contattati.**
 
