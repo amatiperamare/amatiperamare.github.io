@@ -24,7 +24,7 @@ Appuntamento per le 14, per espletare iscrizione e sistemazione. L’incontro in
 
 PRESSO CASA CABURLOTTO, Via ANNIA REGILLA 60 ROMA
 
-**CHI PUO’ PARTECIPARE** Il corso è aperto a PERSONE, dai 18 ai 50 anni.
+**CHI PUO’ PARTECIPARE** Il corso è aperto a single e fidanzati, dai 18 ai 50 anni.
 
 **COSTI** 135 TUTTO COMPRESO (vitto, alloggio, asciugamani e lenzuola)
 
