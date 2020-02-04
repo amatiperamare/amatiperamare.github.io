@@ -8,7 +8,7 @@ Carissimi amici di Amati per Amare, è con grande entusiasmo che lanciamo il per
 
 **OBBIETTIVO**: favorire il cambiamento strategico di quegli aspetti personali e relazionali che ti fanno soffrire, per fiorire nella tua autostima e identità, per fare centro nella relazione con te stesso e con gli altri.
 
-**QUANDO e DOVE**: martedì dalle 18.00 alle 20.30 (cadenze quindicinale), presso i locali di piazza Amilcare Zamorani 21, Roma (metro Monti tiburtini).
+**QUANDO e DOVE**: martedì dalle 18.30 alle 20.30 (cadenze quindicinale), presso i locali di piazza Amilcare Zamorani 21, Roma (metro Monti tiburtini).
 
 **DURATA**: Il percorso di 12 incontri partirà a gennaio 2020 fino a giugno 2020.
 
