@@ -53,9 +53,7 @@ navigation:
   - title: Seguici su <i class="fa fa-facebook-square fa-lg"></i>
     url: https://www.facebook.com/AmatiperAmare/
     show: true
-  - title: |-
-      Seguici su <i class="yo yo-Youtube-square yo-ig">
-      </i>
+  - title: Seguici su <script src="https://apis.google.com/js/platform.js"></script>
     url: https://www.youtube.com/channel/UCLhMktg9WhN92Ykn2yD61Wg/featured?view_as=subscriber
     show: true
 permalink: "/:title"
