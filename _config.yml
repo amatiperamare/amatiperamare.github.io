@@ -50,7 +50,7 @@ navigation:
   - title: Scrivici
     url: mailto:info@amatiperamare.it
     show: false
-  - title: Seguici su<i class="fa fa-facebook-square fa-lg"></i>
+  - title: Seguici su <i class="fa fa-facebook-square fa-lg"></i>
     url: https://www.facebook.com/AmatiperAmare/
     show: true
   - title: Seguici su YouTube
