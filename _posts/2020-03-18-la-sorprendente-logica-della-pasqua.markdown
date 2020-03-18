@@ -1,6 +1,21 @@
 ---
 title: La sorprendente logica della Pasqua
 date: 2020-03-18 20:59:00 +01:00
+tags:
+- amore
+- pinto
+- piangere
+- consolato
+- Dio
+- verità
+- maschere
+- soli
+- fratelli
+- fraternità
+- padre
+- perdono
+- dono
+- suore francescane dell'addolorata
 author: Suor Ebe
 ---
 
