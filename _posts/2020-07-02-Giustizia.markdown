@@ -45,7 +45,7 @@ Figlio nel mondo per condannare il mondo, ma perché il mondo sia salvato per me
 noi cristiani siamo parte integrante di questo progetto di salvezza. Credo che i punti cardine che mette in
 evidenza questa Beatitudine siano due. Il primo è la capacità di ATTENDERE, “saranno saziati”. La violenza
 \(intendo ogni reazione aggressiva, come il giudizio ad esempio) è impulsiva, non guarda veramente l’altro,
-non ha una direzione costruttiva verso cui investire le energie, ma è semplicemente uno sfogo. \*\*Le tre donne
+non ha una direzione costruttiva verso cui investire le energie, ma è semplicemente uno sfogo. Le tre donne
 del   film   ci   mostrano   invece   come   attraversare   in   modo   maturo   l’ingiustizia.  Spesso   pensiamo   che
 “attendere” sia un VERBO PASSIVO! Ci sono tanti modi di attendere, adoperandosi attivamente, lasciando il
 posto del giudice a un Altro: amando il nemico, mettendosi a servizio, perdonando, prendendo iniziativa
