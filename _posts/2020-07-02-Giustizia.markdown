@@ -34,7 +34,7 @@ loro dignità, senza sminuire quella dell’altro. Hanno mostrato uno stile dive
 frutto. **Di fronte a situazioni d’ingiustizia come questa, una delle reazioni più spontanee è quella di opporsi**
 **con la forza, in modo da ristabilire la giustizia...** ma non funziona così! Se la forza e il dominio sull’altro
 ristabilissero la giustizia il mondo sarebbe in pace da secoli!
-E per te cos’è la giustizia? **Come reagisci di fronte alle ingiustizie?**
+**E per te cos’è la giustizia? Come reagisci di fronte alle ingiustizie?**
 L’ingiustizia ci tocca così profondamente da avere lo stesso peso dei bisogni primari, fame e sete; finché
 non   troviamo   una   risposta   soddisfacente   al   nostro   bisogno   di   giustizia,   un   senso   di   inquietudine   ci
 tormenta, non ci dà pace. Possiamo reagire con forza oppure, al contrario, sentirci schiacciati da un senso di
