@@ -25,7 +25,6 @@ conducendoci al cuore del Vangelo e della nostra vita cristiana.
 
 ![giustizia.jpg](/uploads/giustizia.jpg)
 
-
 Quando penso al tema della giustizia mi viene in mente uno dei film più belli che abbia visto, “Il diritto di
 contare”; racconta la storia delle prime tre donne nere che hanno lavorato alla NASA. Ci fa entrare nel
 vissuto di queste donne straordinarie, **di come sono state dentro la grande ingiustizia del razzismo e di
@@ -33,7 +32,7 @@ come l’hanno vinta**. Non hanno risposto al giudizio con violenza o con altri 
 la loro attenzione sulle opportunità che si presentavano loro e le hanno sapute cogliere. Hanno creduto alla
 loro dignità, senza sminuire quella dell’altro. Hanno mostrato uno stile diverso e hanno saputo attenderne il
 frutto. **Di fronte a situazioni d’ingiustizia come questa, una delle reazioni più spontanee è quella di opporsi**
-con la forza, in modo da ristabilire la** giustizia**... ma non funziona così! Se la forza e il dominio sull’altro
+**con la forza, in modo da ristabilire la giustizia...** ma non funziona così! Se la forza e il dominio sull’altro
 ristabilissero la giustizia il mondo sarebbe in pace da secoli!
 E per te cos’è la giustizia? **Come reagisci di fronte alle ingiustizie?**
 L’ingiustizia ci tocca così profondamente da avere lo stesso peso dei bisogni primari, fame e sete; finché
@@ -46,8 +45,8 @@ Figlio nel mondo per condannare il mondo, ma perché il mondo sia salvato per me
 noi cristiani siamo parte integrante di questo progetto di salvezza. Credo che i punti cardine che mette in
 evidenza questa Beatitudine siano due. Il primo è la capacità di ATTENDERE, “saranno saziati”. La violenza
 \(intendo ogni reazione aggressiva, come il giudizio ad esempio) è impulsiva, non guarda veramente l’altro,
-non ha una direzione costruttiva verso cui investire le energie, ma è semplicemente uno sfogo. **Le tre donne
-del   film   ci   mostrano   invece   come   attraversare   in   modo   maturo   l’ingiustizia.  ** Spesso   pensiamo   che
+non ha una direzione costruttiva verso cui investire le energie, ma è semplicemente uno sfogo. \*\*Le tre donne
+del   film   ci   mostrano   invece   come   attraversare   in   modo   maturo   l’ingiustizia.  Spesso   pensiamo   che
 “attendere” sia un VERBO PASSIVO! Ci sono tanti modi di attendere, adoperandosi attivamente, lasciando il
 posto del giudice a un Altro: amando il nemico, mettendosi a servizio, perdonando, prendendo iniziativa
 con chi invece non lo fa con te. **Il secondo punto che vorrei sottolineare è che la giustizia che noi**
