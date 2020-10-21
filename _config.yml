@@ -11,9 +11,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  libri:
-    title: libri
-    output: true
 defaults:
 - scope:
     path: ''

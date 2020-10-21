@@ -2,6 +2,7 @@
 title: Blog
 date: 2016-07-08 23:42:00 +02:00
 permalink: blog
+position: 3
 summary: La vita in coppia, in famiglia... e non solo!
 ---
 
