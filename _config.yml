@@ -43,6 +43,9 @@ navigation:
   - title: Eventi
     url: eventi
     show: true
+  - title: Libri
+    url: libri
+    show: true
   other:
   - title: Chi siamo
     show: true
