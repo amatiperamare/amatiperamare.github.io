@@ -32,6 +32,7 @@ landing:
   image: "/uploads/logo%20amati%203%20(1).jpg"
   events_title: <i class="fa fa-calendar-o"></i> &nbsp; Eventi
   blog_title: <i class="fa fa-pencil"></i> &nbsp; Blog
+  libri_title: <i class="fa fa-pencil"></i> &nbsp;Libri
 footer:
   image: "/uploads/amati%20per%20amare1.png"
   text: Io sono con voi tutti i giorni, fino alla fine del mondo. (Mt 28,20)
