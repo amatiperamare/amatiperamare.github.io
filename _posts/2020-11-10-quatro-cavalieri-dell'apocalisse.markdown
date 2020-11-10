@@ -17,10 +17,9 @@ tags:
 - relazione
 ---
 
-**I quattro cavalieri dell’apocalisse** (cit. in Gottman-Gottman, dieci principi per una terapia di coppia efficace) nella relazione di coppia rappresentano quattro atteggiamenti, che se continui e costanti nel tempo possono far finire il tuo matrimonio in 5-6 anni. Ricerche scientifiche e studi su tantissime coppie mostrano come il fallimento del rapporto sia dietro l’angolo se **CRITICHE**, **DISPREZZO**,** EVITAMENTO** e **OSTRUZIONISMO** fanno da padroni alle tue interazioni di coppia.
+**I quattro cavalieri dell’apocalisse** (cit. in Gottman-Gottman, dieci principi per una terapia di coppia efficace) nella relazione di coppia rappresentano quattro atteggiamenti, che se continui e costanti nel tempo possono far finire il tuo matrimonio in 5-6 anni. Ricerche scientifiche e studi su tantissime coppie mostrano come il fallimento del rapporto sia dietro l’angolo se **CRITICHE**, **DISPREZZO**,** EVITAMENTO **e **OSTRUZIONISMO** fanno da padroni alle tue interazioni di coppia.
 
 ![critica disprezzo ritiro ostruzionismo.jpg](/uploads/critica%20disprezzo%20ritiro%20ostruzionismo.jpg)
-
 
 Ma lasciamoci illuminare dalla Parola. Dalla lettera ai Romani di San Paolo 7, 14-25: In questo brano San Paolo esprime tutto il conflitto del cristiano che sa benissimo quale sia il bene, però continua a fare il male. Il senso di fallimento è dietro l’angolo quando hai ben presente quali sono le coordinate che potrebbero far andare bene le cose, e invece come un citrullo ti ritrovi a fare sempre gli stessi errori. Siamo destinati perciò a soccombere dietro la nostra natura?! Sai qual è il bersaglio, ma continui a mancarlo.
 Partiamo dal presupposto che nella comunicazione con l’altro, tutti ogni tanto facciamo entrare qualche “cavaliere”, per cui è impossibile essere perfetti! Anzi diciamo che non è affatto necessario essere perfetti per far si che una relazione di coppia sia felice…
