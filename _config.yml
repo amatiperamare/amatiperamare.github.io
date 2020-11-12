@@ -7,7 +7,7 @@ collections:
     output: true
   books:
     title: Libri
-    output: false
+    output: true
   posts:
     title: Posts
     output: true
