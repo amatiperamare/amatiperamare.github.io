@@ -5,9 +5,6 @@ collections:
   events:
     title: Eventi
     output: true
-  books:
-    title: Libri
-    output: true
   posts:
     title: Posts
     output: true
