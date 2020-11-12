@@ -6,7 +6,7 @@ summary: Libri per riflettere su sé, l'altro. Dio
 ---
 
 <section class="post-index">
-{% for article in site.books %}
+{% for article in site.books %} 
 {% include index-article.html %}
 {% endfor %}
 </section>
