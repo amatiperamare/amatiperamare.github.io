@@ -1,5 +1,5 @@
 ---
-title: "#influencer dell'#amore. Testimonianze e riflessioni di tre coppie 2.0"
+title: "#Influencer dell'#amore. Testimonianze e riflessioni di tre coppie 2.0"
 date: 2020-11-13 22:54:00 +01:00
 ---
 
