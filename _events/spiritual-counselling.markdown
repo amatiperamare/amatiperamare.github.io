@@ -1,6 +1,7 @@
 ---
 title: SPIRITUAL COUNSELLING
 date: 2019-12-03 11:55:00 +01:00
+published: false
 categories:
 - COUNSELLING
 - SPIRITUAL
