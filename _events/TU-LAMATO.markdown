@@ -1,7 +1,6 @@
 ---
 title: TU L'AMATO
 date: 2020-01-19 23:19:00 +01:00
-published: false
 categories:
 - CORSO
 - AMORE
