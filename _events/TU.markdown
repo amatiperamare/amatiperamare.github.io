@@ -11,7 +11,7 @@ categories:
 - ritiro
 ---
 
-Un’esperienza di tre giorni per riprendere in mano la tua storia di vita, le tue ferite del cuore, benedire le zone d’ombra che non accetti di te e lì fare esperienza della presenza di Dio e cercare la strada per spalancare le finestre delle stanze più buie del tuo cuore, per fare entrare il fresco profumo dell’Amore di Dio che tutto sana, tutto cambia, tutto trasforma, se sei disposto a metterti in cammino. 
+Un’esperienza di tre giorni per riprendere in mano la tua storia di vita, le tue ferite del cuore, benedire le zone d’ombra che non accetti di te e lì fare esperienza della presenza di Dio e cercare la strada per spalancare le finestre delle stanze più buie del tuo cuore, per fare entrare il fresco profumo dell’Amore di Dio che tutto sana, tutto cambia, tutto trasforma, se sei disposto a metterti in cammino.
 
 ![tu lamato .jpg](/uploads/tu%20lamato%20.jpg)
 
@@ -19,7 +19,7 @@ Un tempo prezioso fatto di momenti di gioco, catechesi, dinamiche di gruppo, con
 
 **QUANDO**
 
-Appuntamento per le 14, per espletare iscrizione e sistemazione. L’incontro inizia alle 14.30 del 27 MARZO . Concluderemo il percorso la domenica 29 MARZO con il pranzo.
+Appuntamento per le 14, per espletare iscrizione e sistemazione. L’incontro inizia alle 14.30 del 12 novembre . Concluderemo il percorso la domenica  14  con il pranzo.
 
 **DOVE**
 
@@ -27,9 +27,9 @@ PRESSO CASA CABURLOTTO, Via ANNIA REGILLA 60 ROMA
 
 **CHI PUO’ PARTECIPARE** Il corso è aperto a single e fidanzati, dai 18 ai 50 anni.
 
-**COSTI** 135 TUTTO COMPRESO (vitto, alloggio, asciugamani e lenzuola)
+**COSTI** 135 TUTTO COMPRESO (vitto, alloggio)
 
-CONDUTTORI Il corso è condotto da Roberto e Claudia, la coppia di sposi che hanno fondato l’associazione “Amati per Amare”. Psicoterapeuta lei e Dott. in psicologia dello sviluppo, counsellor, mediatore familiare lui, metteranno a disposizione del gruppo le loro competenze professionali, la loro testimonianza di coppia, il loro cammino di fede. Ci daranno una mano i frati minori e le suore francescane dell’Addolorata.
+CONDUTTORI Il corso è condotto da Roberto e Claudia, la coppia di sposi che hanno fondato l’associazione “Amati per Amare”. Psicoterapeuta lei e Dott. in psicologia dello sviluppo, counsellor, mediatore familiare lui, metteranno a disposizione del gruppo le loro competenze professionali, la loro testimonianza di coppia, il loro cammino di fede. Ci daranno una mano i frati minori 
 
 **MODALITÀ D’ISCRIZIONE** Cliccate il seguente link [https://docs.google.com/forms/d/e/1FAIpQLSe48JcecZqaHllyqoyqRAxvHrrZpKG7zVSC-ftpfFkAiaalpA/viewform?usp=pp_url](https://docs.google.com/forms/d/e/1FAIpQLSe48JcecZqaHllyqoyqRAxvHrrZpKG7zVSC-ftpfFkAiaalpA/viewform?usp=pp_url)
 
