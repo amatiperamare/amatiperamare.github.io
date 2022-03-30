@@ -1,7 +1,6 @@
 ---
 title: NEW LIBRO
 date: 2019-10-02 17:51:00 +02:00
-published: false
 categories:
 - amore
 - coppia
